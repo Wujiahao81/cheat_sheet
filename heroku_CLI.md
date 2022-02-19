@@ -1,6 +1,5 @@
 # Heroku CLI cheat sheet
 
-### Step by step.
 - 登入 Heroku 帳號。
 ```
 heroku login
