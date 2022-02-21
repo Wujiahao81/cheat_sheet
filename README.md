@@ -6,4 +6,5 @@
 - [heroku](heroku_CLI.md)
 - Python
 - [pip](python_pip.md)
+- windows batch
 - [portquiz](http://portquiz.net/)
