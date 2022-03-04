@@ -6,13 +6,13 @@
 
 ## pratice
 - Python
-- [pip](python_pip.md)
 - [PostgreSQL](PostgreSQL/PostgreSQL.md)
-- windows batch
+- windows Batch
 
 ## note
 - [Git](git_cheat_sheet.md)
 - [Heroku](heroku_CLI.md)
+- [pip](python_pip.md)
 
 ## tool
 - [portquiz](http://portquiz.net/)
