@@ -2,17 +2,17 @@
 
 > Some tips to make my life easier.
 
-##project
+## project
 
-##pratice
+## pratice
 - Python
 - [pip](python_pip.md)
 - [PostgreSQL](PostgreSQL/PostgreSQL.md)
 - windows batch
 
-##note
+## note
 - [Git](git_cheat_sheet.md)
 - [Heroku](heroku_CLI.md)
 
-##tool
+## tool
 - [portquiz](http://portquiz.net/)
