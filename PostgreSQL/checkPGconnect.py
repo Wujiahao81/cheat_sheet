@@ -1,4 +1,4 @@
-# 測試postgres資料庫是否連接
+# 測試postgresql資料庫是否連接
 import psycopg2
 from psycopg2 import Error
 

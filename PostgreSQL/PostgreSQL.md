@@ -1,4 +1,4 @@
-# PostgresDB
+# PostgreSQL
 
 [檢查postgresql資料庫連線資訊程式](checkPGconnect.py)
 
