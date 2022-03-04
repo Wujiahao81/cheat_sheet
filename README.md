@@ -6,6 +6,6 @@
 - Python
 - [pip](python_pip.md)
 - [heroku](heroku_CLI.md)
-- [postgresDB](postgreSQL.md)
+- [postgresDB](PostgreSQL.md)
 - windows batch
 - [portquiz](http://portquiz.net/)
