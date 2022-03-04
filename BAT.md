@@ -5,7 +5,7 @@
 - [刪除在該路徑內超過一天的所有jpg檔](windows_batch_file/deloldphoto.bat)
 - [自動關閉並重新啟動程式](windows_batch_file/auto_restart_your_program.bat)
 - [檢查某程式是否在執行，若沒有回應就刪除並重新啟動他](windows_batch_file/checkapp.bat)。 
-可以用於一些必須一直執行的程式，[invis.vbs](windows_batch_file/invis.vbs) 可以讓 [checkapp.bat](windows_batch_file/checkapp.bat) 在執行時命令提示字元不會跳出來。
+可以用於一些必須一直執行的程式，[invis.vbs](windows_batch_file/invis.vbs) 可以讓 [該批次檔](windows_batch_file/checkapp.bat) 在執行時命令提示字元不會跳出來。
 
 >## 補充知識
 批次檔配合windows系統的工作排程器可讓電腦自動化定時執行批次作業，可以避免人為遺忘或漏失的風險。
