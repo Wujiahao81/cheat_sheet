@@ -3,7 +3,7 @@
 > Some tips to make my life easier.
 
 ## project
-- [auto check paper roll status using python](https://github.com/daoxuewu/pyserial_printer_paperstatus)
+- [auto check printer paper roll status using python](https://github.com/daoxuewu/pyserial_printer_paperstatus)
 
 ## pratice
 - Python
