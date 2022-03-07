@@ -26,7 +26,7 @@ PAUSE
 ```
 解釋器(interpreter)會依次執行每一行，從第一行開始，@開頭的符號會阻止在執行該命令時顯示該命令。ECHO OFF命令可以永久關閉顯示後續的每一行，直到它再次打開。
 
-@ECHO OFF通常是批次檔的第一行，防止顯示任何命令，包括第一行本身(若改成"ECHO ON"的話則會出現)。然後執行下一行並ECHO Hello World!輸出命令``Hello World!``。執行下一行，PAUSE暫停腳本的執行並顯示等你按任意鍵繼續
+@ECHO OFF通常是批次檔的第一行，防止顯示任何命令，包括第一行本身(若改成"ECHO ON"的話則會出現)。然後執行下一行並ECHO Hello World!輸出命令``Hello World!``。執行下一行，PAUSE會暫停腳本的執行並顯示等你按任意鍵繼續
 ```
 Press any key to continue . . .
 ```
