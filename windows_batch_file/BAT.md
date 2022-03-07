@@ -39,9 +39,15 @@ Press any key to continue . . .
 ::我是註解
 REM 我也是註解
 ```
-## CMD快速查詢正在運行中的程序
+## CMD檢視執行中的程序
 ```
 tasklist /v /fo list
 ```
+在本機上，要檢視執行中的程序，只要輸入`
+tasklist`就可以了 
+
+/fo 參數可以改變結果呈現的方式 
+
+/v 顯示詳細工作資訊
 ## DOS和CMD有什麼不同?
 DOS是英文Disk Operating System的縮寫，意思是「磁碟作業系統」，而(cmd.exe)只是在windows下的DOS模擬器，能運行絕大部分DOS命令，但是不是真正的DOS。
