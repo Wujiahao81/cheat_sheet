@@ -8,7 +8,7 @@
 ## pratice
 - Python
 - [PostgreSQL](PostgreSQL/PostgreSQL.md)
-- [Windows Batch](BAT.md)
+- [Windows Batch](windows_batch_file/BAT.md)
 
 ## note
 - [Git](git_cheat_sheet.md)
