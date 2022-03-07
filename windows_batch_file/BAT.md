@@ -32,7 +32,7 @@ Press any key to continue . . .
 ```
 按下一個鍵後，腳本終止，因為沒有更多的命令。
 
-方便查詢指令的小工具 : [CMD命令速查手冊](http://www.cas.idv.tw/Documents/Micorsoft/CMDManual/CMD%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8A.asp)
+方便查詢指令的小工具 : [CMD命令速查手冊](http://www.cas.idv.tw/Documents/Micorsoft/CMDManual/CMD%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8A.asp)、[.bat相關資源網址](windows_batch_file/batch_resource.md)
 
 ## 批次檔下註解的方法
 ```
