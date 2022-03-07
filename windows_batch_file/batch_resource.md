@@ -1,3 +1,4 @@
+# 這裡是一些batch file相關的網站，幫助我解決過問題的我就會放在這邊
 ### 工作排程器無法執行批次檔
 https://itorz324.blogspot.com/2019/12/win10-TaskScheduler-not-run.html
 ### Windows Batch 檔如何用 Administrator 權限執行？ (超神的!!)
@@ -28,5 +29,5 @@ https://blog.miniasp.com/post/2010/10/04/Windows-Batch-ERRORLEVEL-and-Linux-Bash
 http://adalf0722.blogspot.com/2008/12/nul.html
 ### pushd 和 popd (切換目錄)
 https://blog.xuite.net/tolarku/blog/35687090-DOS+Command+-+pushd+popd+-+%E5%88%87%E6%8F%9B%E7%9B%AE%E9%8C%84
-### [教學] DOS批次檔製作 - BAT檔語法
+### [教學] DOS批次檔製作 - BAT檔語法(網頁下方有一些範例)
 https://davidhu0903ex3.pixnet.net/blog/post/443069270-%5B%E6%95%99%E5%AD%B8%5D-dos%E6%89%B9%E6%AC%A1%E6%AA%94%E8%A3%BD%E4%BD%9C---bat%E6%AA%94%E8%AA%9E%E6%B3%95
