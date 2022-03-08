@@ -1,6 +1,6 @@
 # PostgreSQL
 
-[檢查postgresql資料庫連線資訊程式](checkPGconnect.py)
+- [檢查postgresql資料庫連線資訊程式](checkPGconnect.py)
 
 只需要修改以下""內資料成你自己的就可以使用
 ```
