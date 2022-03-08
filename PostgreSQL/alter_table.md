@@ -7,3 +7,32 @@ ALTER TABLE table_name ...;
 | Id | name | userid | datetime | status  |
 | :----: | :----: | :---- | :---- | :---- |
 
+## 增加欄位 (ADD COLUMN)
+語法
+```
+ALTER TABLE table_name ADD column_name datatype;
+```
+例如，如果我們想增加一個 gender 欄位：
+```
+ALTER TABLE userdata ADD gender VARCHAR(10);
+```
+
+## 更改欄位資料型別 (ALTER COLUMN TYPE)
+語法
+```
+ALTER TABLE table_name ALTER COLUMN column_name datatype;
+```
+例如，更改 gender 欄位的資料型別：
+```
+ALTER TABLE customers ALTER COLUMN gender DECIMAL(18, 2);
+```
+
+## 刪除欄位 (DROP COLUMN)
+語法
+```
+ALTER TABLE table_name DROP COLUMN column_name;
+```
+例如，刪除 gender 欄位：
+```
+ALTER TABLE customers DROP COLUMN gender;
+```
