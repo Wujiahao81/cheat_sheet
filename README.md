@@ -17,4 +17,4 @@
 
 ## tool
 - [CMD命令速查手冊](http://www.cas.idv.tw/Documents/Micorsoft/CMDManual/CMD%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8A.asp)
-- [portquiz](http://portquiz.net/)
+
