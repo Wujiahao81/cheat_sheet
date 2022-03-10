@@ -36,7 +36,7 @@ heroku addons -a 你-APP-的名字
 ```
 heroku addons:create heroku-postgresql:hobby-dev
 ```
-- 查詢 Heroku 當中指定的設定變數，此例為 DATABASE_URL，得到結果是 Heroku Postgres 的連線位置。
+- 查詢 Heroku 當中指定的設定變數，以此例為 DATABASE_URL，得到結果是 Heroku Postgres 資料庫的連線位址。
 ```
 heroku config:get DATABASE_URL -a 你-APP-的名字
 ```
