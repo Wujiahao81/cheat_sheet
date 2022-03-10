@@ -40,3 +40,4 @@ heroku addons:create heroku-postgresql:hobby-dev
 ```
 heroku config:get DATABASE_URL -a 你-APP-的名字
 ```
+參考網站:[從LINE BOT到資料視覺化：賴田捕手](https://ithelp.ithome.com.tw/users/20120178/ironman/2654?sc=hot)
