@@ -24,7 +24,7 @@ ALTER TABLE table_name ALTER COLUMN column_name datatype;
 ```
 例如，更改 gender 欄位的資料型別：
 ```
-ALTER TABLE customers ALTER COLUMN gender DECIMAL(18, 2);
+ALTER TABLE userdata ALTER COLUMN gender DECIMAL(18, 2);
 ```
 
 ## 刪除欄位 (DROP COLUMN)
@@ -34,5 +34,5 @@ ALTER TABLE table_name DROP COLUMN column_name;
 ```
 例如，刪除 gender 欄位：
 ```
-ALTER TABLE customers DROP COLUMN gender;
+ALTER TABLE userdata DROP COLUMN gender;
 ```
