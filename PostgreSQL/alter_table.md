@@ -36,3 +36,8 @@ ALTER TABLE table_name DROP COLUMN column_name;
 ```PostgreSQL
 ALTER TABLE userdata DROP COLUMN gender;
 ```
+## 修改表的名稱 (RENAME TABLE)
+語法
+```PostgreSQL
+RENAME TABLE userdata to 新表名稱;
+```
