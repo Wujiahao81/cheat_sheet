@@ -1,8 +1,16 @@
-## SQL方式查看表名稱
+## SQL查看table內容
 ```PostgreSQL
 SELECT * FROM public.table_name ORDER BY id ASC
 ```
-## SQL方式查看表結構
+## SQL查看table名稱
+```PostgreSQL
+SELECT   tablename   FROM   pg_tables  
+WHERE   tablename   NOT   LIKE   'pg%'  
+AND tablename NOT LIKE 'sql_%'
+ORDER   BY   tablename;
+```
+
+## SQL查看表結構
 ```PostgreSQL
 SELECT A
 	.attnum,
