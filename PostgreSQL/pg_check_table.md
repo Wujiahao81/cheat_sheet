@@ -1,9 +1,9 @@
-SQL方式查看表名稱
-```
+## SQL方式查看表名稱
+```PostgreSQL
 SELECT * FROM public.table_name ORDER BY id ASC
 ```
-SQL方式查看表結構
-```
+## SQL方式查看表結構
+```PostgreSQL
 SELECT A
 	.attnum,
 	A.attname AS field,

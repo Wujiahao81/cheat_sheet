@@ -19,7 +19,7 @@
 
 ## Batch file 範例 
 (注意 : DOS命令不區分大小寫!)
-```
+```bat
 @ECHO OFF
 ECHO Hello World!
 PAUSE
