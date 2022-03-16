@@ -41,3 +41,4 @@ ALTER TABLE userdata DROP COLUMN gender;
 ```PostgreSQL
 RENAME TABLE userdata to 新表名稱;
 ```
+參考網站:[SQL ALTER TABLE](https://www.1keydata.com/tw/sql/sql-alter-table.html)
