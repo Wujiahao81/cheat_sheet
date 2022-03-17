@@ -27,6 +27,10 @@ tree /F
 ```
 heroku logs -a 你-APP-的名字
 ```
+- 查看 Heroku 的log(持續打印日誌)
+```
+heroku logs --tail -a 你-APP-的名字 
+```
 - 查詢 Heroku APP 目前所使用的擴充功能(addons)。
 ```
 heroku addons -a 你-APP-的名字
