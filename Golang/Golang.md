@@ -1,11 +1,11 @@
 # Golang
 >基本練習
-- [快速開始](Golang/Golang-training/hello.go)  
-- [資料、資料型態與變數](Golang/Golang-training/data-var.go)
-- [基本輸入與輸出](Golang/Golang-training/basic-io.go)
-- [基本運算符號](Golang/Golang-training/op.go)
-- [流程控制-if判斷式](Golang/Golang-training/flow-if.go)
-- [流程控制-for迴圈break、continue用法](Golang/Golang-training/flow-for.go)
+- [快速開始](Golang-training/hello.go)  
+- [資料、資料型態與變數](Golang-training/data-var.go)
+- [基本輸入與輸出](Golang-training/basic-io.go)
+- [基本運算符號](Golang-training/op.go)
+- [流程控制-if判斷式](Golang-training/flow-if.go)
+- [流程控制-for迴圈break、continue用法](Golang-training/flow-for.go)
 - [函式的定義、呼叫、參數]()
 - [函式的回傳值-return的用法]()
 - [指標基礎Pointer-記憶體位址、指標變數與資料型態、反解指標]()
