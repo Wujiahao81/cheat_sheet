@@ -1,0 +1,16 @@
+# Golang
+>基本練習
+- [快速開始](Golang/Golang-training/hello.go)  
+- [資料、資料型態與變數](Golang/Golang-training/data-var.go)
+- [基本輸入與輸出](Golang/Golang-training/basic-io.go)
+- [基本運算符號](Golang/Golang-training/op.go)
+- [流程控制-if判斷式](Golang/Golang-training/flow-if.go)
+- [流程控制-for迴圈break、continue用法](Golang/Golang-training/flow-for.go)
+- [函式的定義、呼叫、參數]()
+- [函式的回傳值-return的用法]()
+- [指標基礎Pointer-記憶體位址、指標變數與資料型態、反解指標]()
+- [指標參數-Pass by Pointer和 Pass by Value函式參數傳遞]()
+- [結構基礎 Struct - 定義、實體化結構]()
+- [陣列基礎 Array - 建立、賦值、巡迴陣列]()  
+參考網址:[澎澎 Golang 入門教學課程
+](https://www.youtube.com/playlist?list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE)
