@@ -7,7 +7,7 @@
 - [流程控制-if判斷式](Golang-training/flow-if.go)
 - [流程控制-for迴圈break、continue用法](Golang-training/flow-for.go)
 - [函式的定義、呼叫、參數](Golang-training/func-basic.go)
-- [函式的回傳值-return的用法](Golang-training/.go)
+- [函式的回傳值-return的用法](Golang-training/func-return.go)
 - [指標基礎Pointer-記憶體位址、指標變數與資料型態、反解指標](Golang-training/.go)
 - [指標參數-Pass by Pointer和 Pass by Value函式參數傳遞](Golang-training/.go)
 - [結構基礎 Struct - 定義、實體化結構](Golang-training/.go)
