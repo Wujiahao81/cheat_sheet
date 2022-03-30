@@ -1,6 +1,5 @@
 # Golang
->基本練習
-go language是一個效率極高的語言，
+>基本練習  
 - [快速開始](Golang-training/hello.go)  
 - [資料、資料型態與變數](Golang-training/data-var.go)
 - [基本輸入與輸出](Golang-training/basic-io.go)
