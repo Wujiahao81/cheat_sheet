@@ -13,12 +13,13 @@ heroku login -i
 heroku create 你-APP-的名字
 ```
 - 將指定的 Heroku APP 設定為git推送的遠端資料庫。
+- 用官方原本指令推到master可能會發生錯誤 [Reason](https://stackoverflow.com/a/66899451)
 <!-- - Try Using git push heroku main instead of git push heroku master -->
 ```
 heroku git:remote -a 你-APP-的名字
 git add .
 git commit –m "這次更新的註解"
-git push heroku main    [Reason](https://stackoverflow.com/a/66899451)
+git push heroku main    
 ```
 - 查看檔案結構
 ```
