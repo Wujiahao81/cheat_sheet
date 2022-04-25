@@ -36,7 +36,6 @@ heroku logs --tail -a 你-APP-的名字
 - 查詢 Heroku APP 目前所使用的擴充功能(addons)。
 ```
 heroku addons -a 你-APP-的名字
-
 ```
 - 查詢 Heroku APP 的狀態資訊，可以看到目前免費時數的用量
 ```
