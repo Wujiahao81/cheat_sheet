@@ -13,7 +13,7 @@ heroku login -i
 heroku create 你-APP-的名字
 ```
 - 將指定的 Heroku APP 設定為git推送的遠端資料庫。
-- 用官方原本指令推到master可能會發生錯誤 [Reason](https://stackoverflow.com/a/66899451)
+- 用官方原本指令推到master可能會發生[錯誤](https://stackoverflow.com/a/66899451)
 <!-- - Try Using git push heroku main instead of git push heroku master -->
 ```
 heroku git:remote -a 你-APP-的名字
