@@ -15,6 +15,7 @@
 - [Git](git_cheat_sheet.md)
 - [Heroku](heroku_CLI.md)
 - [pip](python/python_pip.md)
+- 正規表達式 Regular Expression  [待編輯]
 
 ## tool
 - [CMD命令速查手冊](http://www.cas.idv.tw/Documents/Micorsoft/CMDManual/CMD%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8A.asp)
