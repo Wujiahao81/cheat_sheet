@@ -1,5 +1,7 @@
 # Git cheat sheet
 
+### Tutorial
+- [深入淺出講解及實戰GIT教學!](https://www.bilibili.com/video/BV1FE411P7B3)
 ### Step by step.
 - Create a repository on [Github](https://github.com).
 - Clone the repository to my computer.
@@ -38,3 +40,5 @@ git push
 ```
 git pull
 ```
+
+
