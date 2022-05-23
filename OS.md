@@ -1,4 +1,4 @@
 # Operating Systems
 
 ### 教學資源
-- 北京清華大學 [操作系統原理](https://www.bilibili.com/video/BV1uW411f72n)
+- iT邦幫忙 [教練，我想自幹作業系統!](https://ithelp.ithome.com.tw/articles/10274457)
