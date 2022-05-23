@@ -1,3 +1,3 @@
 # Java
 
-- 載jdk要辦Oracle的會員很麻煩可以用[AdoptOpenJDK](https://adoptopenjdk.net/)
+- 用[AdoptOpenJDK](https://adoptopenjdk.net/)下載jdk不用辦Oracle的會員
