@@ -9,6 +9,7 @@
 
 ## project
 - [auto check printer paper roll status using python](https://github.com/daoxuewu/pyserial_printer_paperstatus)
+- [Line chatbot combined with IoT] [待編輯]
 
 ## pratice
 - [Python](python/python.md)
