@@ -21,6 +21,7 @@
 - [C](C/C.md)
 
 ## note
+- [Numeral system](num_system.md)
 - [Git](note/git_cheat_sheet.md)
 - [Heroku](note/heroku_CLI.md)
 - [pip](python/python_pip.md)
@@ -28,7 +29,6 @@
 - Regular Expression 正規表達式  [待編輯]
 - [Operating Systems](note/OS.md)
 - [Linear Algebra](note/Linear_Algebra.md)
-
 
 ## tool
 - [CMD命令速查手冊](http://www.cas.idv.tw/Documents/Micorsoft/CMDManual/CMD%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8A.asp)
