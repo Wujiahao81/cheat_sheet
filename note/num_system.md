@@ -1,10 +1,10 @@
 # Numeral system (數字系統/記數系統)
 
-## 進制簡介
+## 常見進制
 - 十進制 (Decimal, dec)，以 『10』 做為進位基底 (base) 的數字系統，逢十進位，因此又稱為 base-ten、base 10。
 - 二進制 (Binary)，又稱 base 2
-- 八進制 (Octal, oct) 
-- 十六進制 (Hexadecimal, hex)
+- 八進制 (Octal, oct)，又稱 base 8
+- 十六進制 (Hexadecimal, hex)，又稱 base 16
 
 ```
 >>> '\u4e2d\u6587'
