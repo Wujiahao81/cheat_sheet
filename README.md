@@ -21,12 +21,13 @@
 - [C](C/C.md)
 
 ## note
-- [Numeral system](num_system.md)
+- [Numeral system](note/num_system.md)
 - [Git](note/git_cheat_sheet.md)
 - [Heroku](note/heroku_CLI.md)
 - [pip](python/python_pip.md)
 - [Job interview 求職面試](note/interview/interview.md)
 - Regular Expression 正規表達式  [待編輯]
+- [Computer Network](note/Network.md)
 - [Operating Systems](note/OS.md)
 - [Linear Algebra](note/Linear_Algebra.md)
 
