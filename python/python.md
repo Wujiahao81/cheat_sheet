@@ -16,4 +16,4 @@
 - 裝飾器(Decorators)  [待編輯]
 - zip函式  [待編輯]
 - 用遞迴實作費氏數列(Fibonacci sequence) [待編輯] [參考](https://medium.com/appworks-school/%E5%88%9D%E5%AD%B8%E8%80%85%E5%AD%B8%E6%BC%94%E7%AE%97%E6%B3%95-%E5%BE%9E%E8%B2%BB%E6%B0%8F%E6%95%B8%E5%88%97%E8%AA%8D%E8%AD%98%E4%BD%95%E8%AC%82%E9%81%9E%E8%BF%B4-dea15d2808a3)
-- try except 錯誤處理 [待編輯]
+- try...except 錯誤、例外處理 [待編輯]
