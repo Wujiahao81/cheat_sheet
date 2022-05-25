@@ -1,5 +1,5 @@
 # Golang
->基本練習  
+>## 基本練習  
 - [快速開始](Golang-training/hello.go)  
 - [資料、資料型態與變數](Golang-training/data-var.go)
 - [基本輸入與輸出](Golang-training/basic-io.go)
@@ -13,5 +13,6 @@
 - [結構基礎 Struct - 定義、實體化結構](Golang-training/struct.go)
 - [陣列基礎 Array - 建立、賦值、巡迴陣列](Golang-training/array-basic.go)  
 ## 教學資源
-[澎澎 Golang 入門教學課程
-](https://www.youtube.com/playlist?list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE)
+- [澎澎 Golang 入門教學課程
+](https://www.youtube.com/playlist?list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE) 
+- [Go语言高级编程(Advanced Go Programming)](https://chai2010.cn/advanced-go-programming-book/)
