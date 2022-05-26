@@ -5,7 +5,7 @@ s.connect(('192.168.1.94', 8080))#連接伺服器，前後端的主機名稱和�
 while True:
     msg = input('請輸入訊息：')   #讀取終端機的文字
     s.send(msg.encode('utf8'))   #因為在socket網路編程中，網路傳輸都是以二進制傳輸(位元組格式)，所以要先把輸入文字(msg)用encode()轉成UTF-8編碼，再從socket發送出去。
-    reply = s.recv(128)          #socket.recv(bufsize[, flag])：接收 TCPsocket(客戶端) 的資料(每次最多128位元組)
+    reply = s.recv(128)          #socket.recv(bufsize[, flag])：接收 TCPsocket(伺服器回應) 的資料(每次最多128位元組)，recv()方法(原意為receive，接收)，每一次所能收到的最大資料量，由其參數決定。此參數須考量到裝置(如微控制器)的記憶體與網路連線情況，應該取較小的2次方整數值，例如在電腦可以設成4096，但是在MicroPython控制板，建議設定成1024或更低。
     if reply == b'quit':         #若回應為'quit'，則跳出while迴圈(結束程式)。
         print('關閉連線')        
         s.close()                #關閉socket
