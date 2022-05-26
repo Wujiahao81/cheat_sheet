@@ -14,6 +14,7 @@ print('用戶端位址：{}，埠號：{}'.format(addr[0], addr[1]))
 
 #在socket網路編程中，網路傳輸都是以二進制傳輸,所以務必要把str(字符串)轉成byte(二進制),否則會產生錯誤a bytes-like object is required, not 'str'
 while True:
+    # recv()方法(原意為receive，接收)，每一次所能收到的最大資料量，由其參數決定。此參數須考量到裝置(如微控制器)的記憶體與網路連線情況，應該取較小的2次方整數值，例如在電腦可以設成4096，但是在MicroPython控制板，建議設定成1024或更低。
     msg = client.recv(100).decode('utf8')   #socket.recv(bufsize[, flag])：接收 TCPsocket(客戶端) 的資料(每次最多1024位元組)並用UTF-8解碼成字串，Python3 回傳資料為 byte 類型，Python2 回傳資料為 str 類型，buffsize 指定要接收的最大資料量，flag 提供有關消息的其他訊息，通常可以忽略
     print ('收到訊息：' + msg)
     reply = ''
