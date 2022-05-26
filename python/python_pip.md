@@ -4,7 +4,7 @@
 ```
 pip install flask
 ```
-- 更新套件：
+- 更新套件(這方法安裝如果沒安裝會安裝已經安裝會更新)：
 ```
 pip install -U flask
 ```
