@@ -28,3 +28,8 @@ pip install -r requirements.txt
 ```
 pip freeze > requirements.txt
 ```
+- python更新 pip 套件 (可以使用Python命令参数-m選項来安裝，-m的意思是用Python解釋器來運行pip再更新):
+```
+python -m pip install --upgrade pip
+python -m pip install -U pip
+```
