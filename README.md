@@ -29,6 +29,7 @@
 - Regular Expression 正規表達式  [待編輯]
 - [Computer Network](note/Network.md)
 - [Operating Systems](note/OS.md)
+- [Algorithm](note/algorithm.md)
 - [Linear Algebra](note/Linear_Algebra.md)
 - [Machine Learning](note/machine_learning.md)
 
