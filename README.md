@@ -26,7 +26,7 @@
 - [Heroku](note/heroku_CLI.md)
 - [pip](python/python_pip.md)
 - [Job interview 求職面試](note/interview/interview.md)
-- Regular Expression 正規表達式  [待編輯]
+- Regular Expression 正規表達式  [待編輯] [參考](https://5xruby.tw/posts/15min-regular-expression)
 - [Computer Network](note/Network.md)
 - [Operating Systems](note/OS.md)
 - [Algorithm](note/algorithm.md)
