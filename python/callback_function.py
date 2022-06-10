@@ -1,4 +1,5 @@
 # python回呼函式(callback function)練習
+# 「回呼函式」代表「當某個事件發生時，會被自動呼叫的函式」。
 # reference : https://www.youtube.com/watch?v=iUrUf5ijiWs&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk&index=33
 def add(n1,n2,cb):
     cb(n1+n2)
