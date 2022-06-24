@@ -13,9 +13,11 @@
 - [結構基礎 Struct - 定義、實體化結構](Golang-training/struct.go)
 - [陣列基礎 Array - 建立、賦值、巡迴陣列](Golang-training/array-basic.go)  
 ## 教學資源
+- [The Go Programming Language](http://www.gopl.io/)
 - [澎澎 Golang 入門教學課程
 ](https://www.youtube.com/playlist?list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE) 
+- [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
 - [Go语言高级编程(Advanced Go Programming)](https://chai2010.cn/advanced-go-programming-book/)
-- [The Go Programming Language](http://www.gopl.io/)
+
 ## 問題排除
 - [for windows - trojan detection](https://github.com/golang/go/issues/44351)
