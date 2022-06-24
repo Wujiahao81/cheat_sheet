@@ -37,5 +37,5 @@
 - [CMD命令速查手冊](http://www.cas.idv.tw/Documents/Micorsoft/CMDManual/CMD%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8A.asp) 
 - [Markdown Guide - Basic Syntax](https://www.markdownguide.org/basic-syntax/)、Markdown 教學([中文版](https://gist.github.com/christech1117/6dc5221c177104990767d6490ad8c7ba))
 - [diagrams.net](https://app.diagrams.net/?rel=outbound)(好用的圖表繪製軟體) 
-- 
+- [VirusTotal](https://www.virustotal.com/gui/home/search)(可以免費快速檢測文件或網址是否有病毒)
 
