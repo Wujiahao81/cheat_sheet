@@ -17,3 +17,5 @@
 ](https://www.youtube.com/playlist?list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE) 
 - [Go语言高级编程(Advanced Go Programming)](https://chai2010.cn/advanced-go-programming-book/)
 - [The Go Programming Language](http://www.gopl.io/)
+## 問題排除
+- [for windows - trojan detection](https://github.com/golang/go/issues/44351)
