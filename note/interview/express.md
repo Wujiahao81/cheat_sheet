@@ -5,6 +5,7 @@
 
 - [【心靈成長】如何讓講話能力從0到100大躍進，表達能力訓練](https://www.youtube.com/watch?v=qDn4KRhiH8Y&lc=Ugz_Iiz4oy68MJLy_7Z4AaABAg.9I_huFfRNYM9bMKlUGnBAM) 
 - [理工電資領域⼝說要領 | 2021 科學表達工作坊](https://www.youtube.com/watch?v=-VrZnHLRr8o&t=29s)
+- [如何說話讓人喜歡？怎麽做生意更吸引顧客？李永樂老師講框架效應](https://youtu.be/xlmep_us15I)
 
 ### 問體整理和訓練方法
 
