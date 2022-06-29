@@ -30,6 +30,7 @@
 - [Computer Network](note/Network.md)
 - [Operating Systems](note/OS.md)
 - [Algorithm](note/algorithm.md)
+- [Computer Organization/Architecture](note/computer_architecture.md)
 - [Linear Algebra](note/Linear_Algebra.md)
 - [Machine Learning](note/machine_learning.md)
 
