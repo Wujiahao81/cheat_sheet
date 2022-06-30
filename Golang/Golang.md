@@ -18,6 +18,8 @@
 ](https://www.youtube.com/playlist?list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE) 
 - [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
 - [Go语言高级编程(Advanced Go Programming)](https://chai2010.cn/advanced-go-programming-book/)
-
+- [從學習golang基礎和高級特性，到實戰，到架構微服務，最後到跑路。](https://github.com/jiujuan/go-collection)
 ## 問題排除
 - [for windows - trojan detection](https://github.com/golang/go/issues/44351)
+## 其他
+- [台灣 GO 語言招募職缺](https://github.com/golangtw/jobs)
