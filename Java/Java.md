@@ -2,6 +2,7 @@
 
 - 用[AdoptOpenJDK](https://adoptopenjdk.net/)下載jdk不用辦Oracle的會員
 - IntelliJ [IDEA 打包jar包詳盡流程](https://cloud.tencent.com/developer/article/1764737)
+- [How to Add External JAR File to an IntelliJ IDEA Project?](https://www.geeksforgeeks.org/how-to-add-external-jar-file-to-an-intellij-idea-project/)
 
 ## 學習資源
 - 2021Java學習路線[總結](https://github.com/Tyson0314/Java-learning)
