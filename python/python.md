@@ -19,4 +19,4 @@
 - try...except 錯誤、例外處理 [待編輯]
 - What does the if \_\_name__ == “\_\_main__”: do? [待編輯]
 - [pytest 自動化測試工具](https://www.youtube.com/watch?v=CDBcNB2RrvEhttps://www.youtube.com/watch?v=CDBcNB2RrvE)
-- [python 打包專案成exe檔]()
+- [python 打包專案成exe檔](py_to_exe.md)
