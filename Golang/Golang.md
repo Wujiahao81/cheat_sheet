@@ -17,7 +17,7 @@
 - [The Go Programming Language](http://www.gopl.io/)
 - [澎澎 Golang 入門教學課程
 ](https://www.youtube.com/playlist?list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE) 
-- [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)，project : [cli booking-app](Golang-training/cli_booking_app)
+- [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)，project : [cli booking-app](https://github.com/daoxuewu/cheat_sheet/tree/master/Golang/booking-app)
 - [Go语言高级编程(Advanced Go Programming)](https://chai2010.cn/advanced-go-programming-book/)
 - [從學習golang基礎和高級特性，到實戰，到架構微服務，最後到跑路。](https://github.com/jiujuan/go-collection)
 ## 問題排除
