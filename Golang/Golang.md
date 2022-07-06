@@ -12,11 +12,12 @@
 - [指標參數-Pass by Pointer和 Pass by Value函式參數傳遞](Golang-training/pointer-argument.go)
 - [結構基礎 Struct - 定義、實體化結構](Golang-training/struct.go)
 - [陣列基礎 Array - 建立、賦值、巡迴陣列](Golang-training/array-basic.go)  
+
 ## 教學資源
 - [The Go Programming Language](http://www.gopl.io/)
 - [澎澎 Golang 入門教學課程
 ](https://www.youtube.com/playlist?list=PL-g0fdC5RMbo9bdRzbKaCWYC2mXg2eEZE) 
-- [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)
+- [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I)，project : [cli booking-app](Golang-training/cli_booking_app)
 - [Go语言高级编程(Advanced Go Programming)](https://chai2010.cn/advanced-go-programming-book/)
 - [從學習golang基礎和高級特性，到實戰，到架構微服務，最後到跑路。](https://github.com/jiujuan/go-collection)
 ## 問題排除
