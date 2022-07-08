@@ -1,4 +1,4 @@
-# Cheat sheet.
+# My computer science notebook.
 
 > If you want to master something, teach it.
 > —  Richard Feynman
