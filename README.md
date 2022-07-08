@@ -40,3 +40,6 @@
 - [diagrams.net](https://app.diagrams.net/?rel=outbound)(好用的圖表繪製軟體) 
 - [VirusTotal](https://www.virustotal.com/gui/home/search)(可以免費快速檢測文件或網址是否有病毒)
 
+## 免責聲明
+內容皆為紀錄自己練習、學習過的內容或是網路上寫得很好的文章、影片之連結、如有侵權請馬上聯繫我，我會立馬刪除該項目。  
+我的email:daoxue90@gmail.com
