@@ -29,7 +29,7 @@
 - Regular Expression 正規表達式  [待編輯] [參考](https://5xruby.tw/posts/15min-regular-expression)
 - [Computer Network](note/Network.md)
 - [Operating Systems](note/OS.md)
-- [Algorithm](note/algorithm.md)
+- [Data Structure and Algorithms](note/algorithm.md)
 - [Computer Organization/Architecture](note/computer_architecture.md)
 - [Linear Algebra](note/Linear_Algebra.md)
 - [Machine Learning](note/machine_learning.md)
