@@ -5,5 +5,6 @@
 - [Geeksforgeeks](https://www.geeksforgeeks.org/)  
 - [MIT 6.006 midterm / final](https://courses.csail.mit.edu/6.006/oldquizzes/):可以讓功力指數起飛
 - [CLRS Solutions](https://walkccc.github.io/CLRS/)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 ### 應用
 - [待編輯]
