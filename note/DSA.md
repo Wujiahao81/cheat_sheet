@@ -6,5 +6,9 @@
 - [MIT 6.006 midterm / final](https://courses.csail.mit.edu/6.006/oldquizzes/):可以讓功力指數起飛
 - [CLRS Solutions](https://walkccc.github.io/CLRS/)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
+### 專有名詞
+- [從找衣服了解時間複雜度（Time Complexity）](https://pjchender.blogspot.com/2021/05/time-complexity.html)
+
 ### 應用
 - [待編輯]
