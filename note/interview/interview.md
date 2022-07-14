@@ -4,6 +4,7 @@
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [被問願不願意加班如何回答](work_overtime.md)
 - A way to answer questions - star [待編輯]
+- [你問了嗎？那些你忘記問的面試問題](https://www.gvm.com.tw/article/43290)
 
 ## 工作
 - [從「如果我離職…」的角度思考工作(Huli)](https://hulitw.medium.com/think-as-if-i-quit-f384091ca2f6)
