@@ -24,7 +24,7 @@ pip list
 ```
 pip install -r requirements.txt 
 ```
-- 將安裝過的套件建立成 requirements.txt 文件清單：
+- 將安裝過的套件建立成 requirements.txt 文件清單，專案若打算要傳給別人使用，這個指令可以表示我們這個專案用哪些模組：
 ```
 pip freeze > requirements.txt
 ```
