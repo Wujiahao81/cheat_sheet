@@ -8,13 +8,16 @@ pip3 install virtualenv
 - 執行 virtualenv venv 創建虛擬環境(venv可以替換成任何名稱)
 - 完成即可在專案資料夾內看到多了 venv的資料夾
 ```python
+
 # 使用環境預設 python 版本
 virtualenv venv
+
 # 指定 python 版本
 virtualenv venv --python=pythonx.x.x.
 ```
 - 啟動(進入)虛擬環境，venv名稱記得替換成創建時的名稱：
-```python
+``` python
+
 # Windows 環境
 venv\Scripts\activate
 
