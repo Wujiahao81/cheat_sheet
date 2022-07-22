@@ -1,6 +1,7 @@
 # python
 
 - [pip 指令全記錄](python_pip.md)
+- [Virtualenv](virtualenv.md)
 - [Python package 封包的設計與使用](python_package)
 - [Python回呼函式(Callback Function)練習](callback_function.py)
 - [平、閏年判定](year_detect.py)
@@ -21,7 +22,6 @@
 - [pytest 自動化測試工具](https://www.youtube.com/watch?v=CDBcNB2RrvEhttps://www.youtube.com/watch?v=CDBcNB2RrvE)
 - [python 打包專案成exe檔](py_to_exe.md)
 - [區網內用MAC address找樹莓派的IP地址](mac_to_ip.md)
-- [Virtualenv](https://martychen920.blogspot.com/2017/05/python-virtualenv.html)[待編輯]
 
 ## 學習資源
 - 彭彭[Python入門系列](https://www.youtube.com/watch?v=wqRlKVRUV_k&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)、[Flask、MongoDB網站後端開發](https://www.youtube.com/watch?v=UdRxvHVXTxA&list=PL-g0fdC5RMboN18JNTMCEfe8Ldk8C5pS-)
