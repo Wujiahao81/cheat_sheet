@@ -21,7 +21,7 @@ virtualenv venv --python=pythonx.x.x.
 # Windows 環境
 venv\Scripts\activate
 
-# 在 Linux 和 macOS 環境
+# 在 Linux 和 macOS 環境（請留意符號上的不同）
 source venv/bin/activate
 ```
 - 離開虛擬環境回到global環境:
