@@ -45,9 +45,15 @@ heroku ps -a 你-APP-的名字
 ```
 heroku addons:create heroku-postgresql:hobby-dev
 ```
-- 查詢 Heroku 當中指定的設定變數，以此例為 DATABASE_URL，得到結果是 Heroku Postgres 資料庫的連線位址。
-```
+- 查詢 Heroku 當中指定的設定變數(Config Vars)。
+```shell
+heroku config
+
+# 以此例為 DATABASE_URL，得到結果是 Heroku Postgres 資料庫的連線位址。  
 heroku config:get DATABASE_URL -a 你-APP-的名字
+
+#在當前的 Heroku APP中新增一個鍵值配對 (Key:Value) 為TZ:"Asia/Taipei"的設定變數。
+heroku config:add TZ="Asia/Taipei"
 ```
 - heroku cli 更新 (如果在上傳時跳出類似 warning: heroku update available from 7.59.4 to 7.60.1. 這種訊息可以用指令進行更新)
 ```

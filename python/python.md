@@ -23,6 +23,9 @@
 - [python 打包專案成exe檔](py_to_exe.md)
 - [區網內用MAC address找樹莓派的IP地址](mac_to_ip.md)
 - [python 文件讀寫w r a w+ r+ a+ rb wb ab總結](https://blog.csdn.net/weixin_38739735/article/details/90607120)
+- [Python 定時執行任務(APScheduler、Flask-APScheduler)](APScheduler.md)
+- [Flask項目配置（Configuration）
+](https://zhuanlan.zhihu.com/p/24055329)
 
 ## 學習資源
 - 彭彭[Python入門系列](https://www.youtube.com/watch?v=wqRlKVRUV_k&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)、[Flask、MongoDB網站後端開發](https://www.youtube.com/watch?v=UdRxvHVXTxA&list=PL-g0fdC5RMboN18JNTMCEfe8Ldk8C5pS-)
