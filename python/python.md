@@ -27,4 +27,4 @@
 ## 學習資源
 - 彭彭[Python入門系列](https://www.youtube.com/watch?v=wqRlKVRUV_k&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)、[Flask、MongoDB網站後端開發](https://www.youtube.com/watch?v=UdRxvHVXTxA&list=PL-g0fdC5RMboN18JNTMCEfe8Ldk8C5pS-)
 - [flask網頁建置(註冊、登入、頁面內容)教學電子書(作者:@shaoeChen)](https://hackmd.io/@shaoeChen/HJiZtEngG/https%3A%2F%2Fhackmd.io%2Fs%2FrkgXYoBeG)
-- 
+- [一本更好的Flask书——《Flask Web开发实战》](https://zhuanlan.zhihu.com/p/29907260)
