@@ -129,7 +129,7 @@ class Config(object):
             'func': '__main__:job1',          
             'args': (1, 2),              
             'trigger': 'cron',                            # 指定任務觸發器 cron
-            'day_of_week': 'mon-fri',              # 每周1至周5早上6點執行 
+            'day_of_week': 'mon-fri',                     # 每周1至周5早上6點執行 
             'hour': 6,
             'minute': 00                                    
         }
@@ -146,6 +146,6 @@ class Config(object):
 [Python任務调度模块 – APScheduler，Flask-APScheduler实现定時任務(多個APScheduler程式範例)](https://cloud.tencent.com/developer/article/1172218)  
 [flask定時框架flask_apscheduler的使用"內有三種trigger設置範例"(轉載)](https://blog.51cto.com/u_15127518/4523657)
 ## 相關連結
-這些問題目前，沒碰到但將來可能會碰到所以先放著~  
+這些問題目前沒碰到，但將來可能會碰到所以先放著~  
 [APScheduler中两种调度器(BackgroundScheduler和BlockingScheduler)的区别及使用过程中要注意的问题](https://blog.csdn.net/ybdesire/article/details/82228840)  
 [Python定時任務神器-APScheduler](https://cloud.tencent.com/developer/article/1506679?from=article.detail.1172218)
