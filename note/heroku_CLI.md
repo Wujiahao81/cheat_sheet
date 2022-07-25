@@ -37,7 +37,7 @@ heroku logs --tail -a 你-APP-的名字
 ```
 heroku addons -a 你-APP-的名字
 ```
-- 查詢 Heroku APP 的狀態資訊，可以看到目前免費時數的用量
+- 查詢 Heroku APP 的狀態資訊，可以看到目前免費時數的用量(根據Heroku的官方說法，如果免費的dayno超過每個月能清醒的550小時，那我們所有採用免費dyno的應用程式都會進入睡眠狀態，直到下個月來臨。)
 ```
 heroku ps -a 你-APP-的名字
 ```
