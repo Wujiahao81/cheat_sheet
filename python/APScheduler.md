@@ -59,7 +59,7 @@ if __name__ == '__main__':
 ```
 
 - trigger觸發器設置  
-當你开始定時任務時，需要為定時策略選擇一個trigger（設置 class Config 中 trigger 的值）。flask_apscheduler 提供了三種類型的trigger。
+當你開始定時任務時，需要為定時策略選擇一個trigger（設置 class Config 中 trigger 的值）。flask_apscheduler 提供了三種類型的trigger。
 ```python
 """
 date  一次性指定固定時間，只執行一次
