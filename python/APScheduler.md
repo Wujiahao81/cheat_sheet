@@ -148,7 +148,7 @@ class Config(object):
 [Python 實現定時任務的八種方案！(裡面有關於trigger"觸發器"參數的詳細說明)](https://www.readfog.com/a/1648168828734115840)  
 [Python任務调度模块 – APScheduler，Flask-APScheduler实现定時任務(多個APScheduler程式範例)](https://cloud.tencent.com/developer/article/1172218)  
 [flask定時框架flask_apscheduler的使用"內有三種trigger設置範例"(轉載)](https://blog.51cto.com/u_15127518/4523657)  
-[Flask中使用定时任务(可添加mysql作為定時任務存儲庫)](https://blog.csdn.net/study_in/article/details/106888201)
+[Flask中使用定时任务以及注意事項(可添加mysql作為定時任務存儲庫)](https://blog.csdn.net/study_in/article/details/106888201)
 ## 相關連結
 這些問題目前沒碰到，但將來可能會碰到所以先放著~  
 [APScheduler中两种调度器(BackgroundScheduler和BlockingScheduler)的区别及使用过程中要注意的问题](https://blog.csdn.net/ybdesire/article/details/82228840)  
