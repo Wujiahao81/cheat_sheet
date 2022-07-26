@@ -59,7 +59,9 @@ if __name__ == '__main__':
 ```
 
 上面我們設置了 `SCHEDULER_API_ENABLED = True`，可以通過訪問 [http://127.0.0.1:5000/scheduler ](http://127.0.0.1:5000/scheduler)，其中`scheduler`是默認的RESTful API前綴  
+
 ![image](https://github.com/daoxuewu/my-cs-note/blob/master/python/APScheduler_RESTful.PNG)  
+
 通過查看 `scheduler.py` 的 source code，我們可以看到`flask-apscheduler`為我們提供了哪些`RESTful API`
 ```python
     def _load_api(self):
@@ -76,8 +78,9 @@ if __name__ == '__main__':
         self._add_url_route('resume_job', '/jobs/<job_id>/resume', api.resume_job, 'POST')
         self._add_url_route('run_job', '/jobs/<job_id>/run', api.run_job, 'POST')
 ```
-它們的使用方法是這樣的，比如我要查看當前應用中的所有任務，可以使用GET方法訪問 [http://127.0.0.1:5000/scheduler/jobs](http://127.0.0.1:5000/scheduler/jobs)
+它們的使用方法是這樣的，比如我要查看當前應用中的所有任務，可以使用GET方法訪問 [http://127.0.0.1:5000/scheduler/jobs](http://127.0.0.1:5000/scheduler/jobs)  
 
+![image](https://github.com/daoxuewu/my-cs-note/blob/master/python/APScheduler_all_jobs.PNG)
 
 
 
@@ -166,7 +169,7 @@ class Config(object):
 ## 參考資料
 [APScheduler官方文檔](https://apscheduler.readthedocs.io/en/3.x/)  
 [Flask-APScheduler官方文檔](https://viniciuschiele.github.io/flask-apscheduler/index.html)  
-[在Flask中執行定時任務(作者:迷途小书童的Note)](https://juejin.cn/post/6999817649291001887)  
+[在Flask中執行定時任務，裡面有講一些其他的配置(例如時區、路由的前綴後綴等等)，還有不習慣用配置的話可以用裝飾器的方式去實作(作者:迷途小书童的Note)](https://juejin.cn/post/6999817649291001887)  
 [flask 使用 flask_apscheduler 做定時循环任務](https://segmentfault.com/a/1190000021245279)  
 [Flask-APScheduler 爬坑指南(module not found的解決方案)](https://www.jianshu.com/p/2628f566b31c?u_atoken=594769e5-a129-419d-a665-7e398dd512de&u_asession=01a9YruDu67N1BGgI2H5xEPw3ZduJ-3IVGGJM6e1Z_82r52bXMU6piWNKRiYn-1raKX0KNBwm7Lovlpxjd_P_q4JsKWYrT3W_NKPr8w6oU7K9DZOSciAnCsYLlLE271k_jnHmbkqVcEgdObpAroqY1_GBkFo3NEHBv0PZUm6pbxQU&u_asig=059tO55TWQmGNgVVdK2i_mh2HSglvAvpMC9n4MucpPwQLQ6IJCbJkKc9lZVTK3ymH66M5fQeI5e173iq-EKFnn0j1r84ySwhkBWmrDFRQRp5xDZhAkQEeazvLX9VUIHDls7jAayolQNNF_IcOYAg4jY8_CfRYmg1oidYL1CnPkseT9JS7q8ZD7Xtz2Ly-b0kmuyAKRFSVJkkdwVUnyHAIJzSoDFm_nCmPKOfNsu88Pkj-bzyryXDnJcK7ScIOO55GJ6xbSxAaWh9ph0bRUFW-6vO3h9VXwMyh6PgyDIVSG1W8mfiLo-yz9Xoo-KQpZ55AnW9p7hkxq5Nnkc59BnFNJ_IsEeOrvhD-TkgKw9AK9KUzF_np1q_4Yu5yEbxvnu6z2mWspDxyAEEo4kbsryBKb9Q&u_aref=7NlKP9mrlEqYOndwDn53FO4L9HM%3D)  
 [Python 實現定時任務的八種方案！(裡面有關於trigger"觸發器"參數的詳細說明)](https://www.readfog.com/a/1648168828734115840)  
