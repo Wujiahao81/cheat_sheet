@@ -35,7 +35,7 @@ class Config(object):
         }
     ]
 
-# APS(調度器)的API的開關
+    # APS(調度器)的API的開關
     SCHEDULER_API_ENABLED = True
 
 # 將a和b相加，用來測試APS的函式
@@ -91,7 +91,7 @@ days (int) – 間隔幾天
 hours (int) – 間隔幾小時
 minutes (int) – 間隔幾分鐘
 seconds (int) – 間隔多少秒
-start_date (datetime|str) – 開始日期
+start_date (datetime|str) – 間隔計算的起點
 end_date (datetime|str) – 結束日期
 """
 class Config(object):
@@ -101,7 +101,7 @@ class Config(object):
             'func': '__main__:job1',          
             'args': (1, 2),              
             'trigger': 'interval',                        # 指定任務觸發器 interval
-            'hours': 5                                     # 每間隔5h執行
+            'hours': 5                                     # 每間隔5h執行一次
         }
     ]
 
@@ -110,18 +110,18 @@ class Config(object):
 
 ```python 
 """
-cron 通过設置 相對時間 来運行定時任務
+cron 通過設置 相對時間 来運行定時任務
 
-year (int|str) – 年，4位数字
+year (int|str) – 年，4位數字
 month (int|str) – 月 (範圍1-12)
 day (int|str) – 日 (範圍1-31)
 week (int|str) – 周 (範圍1-53)
-day_of_week (int|str) – 周内第幾天或者星期幾 (範圍0-6 或者 mon,tue,wed,thu,fri,sat,sun)
+day_of_week (int|str) – 周内第幾天或者星期幾 (範圍0-6 或者 mon,tue,wed,thu,fri,sat,sun，使用名稱可能會報錯，建議使用數字)
 hour (int|str) – 時 (範圍0-23)
 minute (int|str) – 分 (範圍0-59)
 second (int|str) – 秒 (範圍0-59)
-start_date (datetime|str) – 最早開始日期(包含)
-end_date (datetime|str) – 最晚結束時间(包含)
+start_date (datetime|str) – 最早開始日期/時間(包含)
+end_date (datetime|str) – 最晚結束日期/時間(包含)
 """
 class Config(object):
     JOBS = [
@@ -148,6 +148,7 @@ class Config(object):
 [Python 實現定時任務的八種方案！(裡面有關於trigger"觸發器"參數的詳細說明)](https://www.readfog.com/a/1648168828734115840)  
 [Python任務调度模块 – APScheduler，Flask-APScheduler实现定時任務(多個APScheduler程式範例)](https://cloud.tencent.com/developer/article/1172218)  
 [flask定時框架flask_apscheduler的使用"內有三種trigger設置範例"(轉載)](https://blog.51cto.com/u_15127518/4523657)
+[Flask中使用定时任务(可添加mysql作為定時任務存儲庫)](https://blog.csdn.net/study_in/article/details/106888201)
 ## 相關連結
 這些問題目前沒碰到，但將來可能會碰到所以先放著~  
 [APScheduler中两种调度器(BackgroundScheduler和BlockingScheduler)的区别及使用过程中要注意的问题](https://blog.csdn.net/ybdesire/article/details/82228840)  
