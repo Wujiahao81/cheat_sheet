@@ -35,6 +35,7 @@ class Config(object):
         }
     ]
 
+# APS(調度器)的API的開關
     SCHEDULER_API_ENABLED = True
 
 # 將a和b相加，用來測試APS的函式
@@ -134,6 +135,8 @@ class Config(object):
             'minute': 00                                    
         }
     ]
+    
+    SCHEDULER_API_ENABLED = True
 ```
 
 ## 參考資料
