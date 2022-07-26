@@ -57,6 +57,9 @@ if __name__ == '__main__':
     app.run()
 
 ```
+上面我們設置了 `SCHEDULER_API_ENABLED = True`，可以通過訪問 [http://127.0.0.1:5000/scheduler ](http://127.0.0.1:5000/scheduler)，其中`scheduler`是默認的RESTful API前綴
+
+
 
 - trigger觸發器設置  
 當你開始定時任務時，需要為定時策略選擇一個trigger（設置 class Config 中 trigger 的值）。flask_apscheduler 提供了三種類型的trigger。
