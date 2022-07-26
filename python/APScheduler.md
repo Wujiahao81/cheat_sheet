@@ -57,8 +57,8 @@ if __name__ == '__main__':
     app.run()
 
 ```
-上面我們設置了 `SCHEDULER_API_ENABLED = True`，可以通過訪問 [http://127.0.0.1:5000/scheduler ](http://127.0.0.1:5000/scheduler)，其中`scheduler`是默認的RESTful API前綴
-
+上面我們設置了 `SCHEDULER_API_ENABLED = True`，可以通過訪問 [http://127.0.0.1:5000/scheduler ](http://127.0.0.1:5000/scheduler)，其中`scheduler`是默認的RESTful API前綴  
+![image](https://github.com/daoxuewu/my-cs-note/blob/master/python/APScheduler_RESTful.PNG)
 
 
 - trigger觸發器設置  
