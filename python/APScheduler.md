@@ -147,7 +147,7 @@ class Config(object):
 [Flask-APScheduler 爬坑指南(module not found的解決方案)](https://www.jianshu.com/p/2628f566b31c?u_atoken=594769e5-a129-419d-a665-7e398dd512de&u_asession=01a9YruDu67N1BGgI2H5xEPw3ZduJ-3IVGGJM6e1Z_82r52bXMU6piWNKRiYn-1raKX0KNBwm7Lovlpxjd_P_q4JsKWYrT3W_NKPr8w6oU7K9DZOSciAnCsYLlLE271k_jnHmbkqVcEgdObpAroqY1_GBkFo3NEHBv0PZUm6pbxQU&u_asig=059tO55TWQmGNgVVdK2i_mh2HSglvAvpMC9n4MucpPwQLQ6IJCbJkKc9lZVTK3ymH66M5fQeI5e173iq-EKFnn0j1r84ySwhkBWmrDFRQRp5xDZhAkQEeazvLX9VUIHDls7jAayolQNNF_IcOYAg4jY8_CfRYmg1oidYL1CnPkseT9JS7q8ZD7Xtz2Ly-b0kmuyAKRFSVJkkdwVUnyHAIJzSoDFm_nCmPKOfNsu88Pkj-bzyryXDnJcK7ScIOO55GJ6xbSxAaWh9ph0bRUFW-6vO3h9VXwMyh6PgyDIVSG1W8mfiLo-yz9Xoo-KQpZ55AnW9p7hkxq5Nnkc59BnFNJ_IsEeOrvhD-TkgKw9AK9KUzF_np1q_4Yu5yEbxvnu6z2mWspDxyAEEo4kbsryBKb9Q&u_aref=7NlKP9mrlEqYOndwDn53FO4L9HM%3D)  
 [Python 實現定時任務的八種方案！(裡面有關於trigger"觸發器"參數的詳細說明)](https://www.readfog.com/a/1648168828734115840)  
 [Python任務调度模块 – APScheduler，Flask-APScheduler实现定時任務(多個APScheduler程式範例)](https://cloud.tencent.com/developer/article/1172218)  
-[flask定時框架flask_apscheduler的使用"內有三種trigger設置範例"(轉載)](https://blog.51cto.com/u_15127518/4523657)
+[flask定時框架flask_apscheduler的使用"內有三種trigger設置範例"(轉載)](https://blog.51cto.com/u_15127518/4523657)  
 [Flask中使用定时任务(可添加mysql作為定時任務存儲庫)](https://blog.csdn.net/study_in/article/details/106888201)
 ## 相關連結
 這些問題目前沒碰到，但將來可能會碰到所以先放著~  
