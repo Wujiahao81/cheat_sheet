@@ -57,8 +57,29 @@ if __name__ == '__main__':
     app.run()
 
 ```
+
 上面我們設置了 `SCHEDULER_API_ENABLED = True`，可以通過訪問 [http://127.0.0.1:5000/scheduler ](http://127.0.0.1:5000/scheduler)，其中`scheduler`是默認的RESTful API前綴  
-![image](https://github.com/daoxuewu/my-cs-note/blob/master/python/APScheduler_RESTful.PNG)
+![image](https://github.com/daoxuewu/my-cs-note/blob/master/python/APScheduler_RESTful.PNG)  
+通過查看 `scheduler.py` 的 source code，我們可以看到`flask-apscheduler`為我們提供了哪些`RESTful API`
+```python
+    def _load_api(self):
+        """
+        Add the routes for the scheduler API.
+        """
+        self._add_url_route('get_scheduler_info', '', api.get_scheduler_info, 'GET')
+        self._add_url_route('add_job', '/jobs', api.add_job, 'POST')
+        self._add_url_route('get_job', '/jobs/<job_id>', api.get_job, 'GET')
+        self._add_url_route('get_jobs', '/jobs', api.get_jobs, 'GET')
+        self._add_url_route('delete_job', '/jobs/<job_id>', api.delete_job, 'DELETE')
+        self._add_url_route('update_job', '/jobs/<job_id>', api.update_job, 'PATCH')
+        self._add_url_route('pause_job', '/jobs/<job_id>/pause', api.pause_job, 'POST')
+        self._add_url_route('resume_job', '/jobs/<job_id>/resume', api.resume_job, 'POST')
+        self._add_url_route('run_job', '/jobs/<job_id>/run', api.run_job, 'POST')
+```
+它們的使用方法是這樣的，比如我要查看當前應用中的所有任務，可以使用GET方法訪問 [http://127.0.0.1:5000/scheduler/jobs](http://127.0.0.1:5000/scheduler/jobs)
+
+
+
 
 
 - trigger觸發器設置  
