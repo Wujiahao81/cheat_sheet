@@ -2,12 +2,11 @@
 
 > 表達能力在平日就要訓練，而且還要長期訓練!
 ### 學習資源
-
-- [【心靈成長】如何讓講話能力從0到100大躍進，表達能力訓練](https://www.youtube.com/watch?v=qDn4KRhiH8Y&lc=Ugz_Iiz4oy68MJLy_7Z4AaABAg.9I_huFfRNYM9bMKlUGnBAM) 
-- [理工電資領域⼝說要領 | 2021 科學表達工作坊](https://youtu.be/-VrZnHLRr8o)
 - [如何說話讓人喜歡？怎麽做生意更吸引顧客？李永樂老師講框架效應](https://youtu.be/xlmep_us15I)
+- [理工電資領域⼝說要領 | 2021 科學表達工作坊](https://youtu.be/-VrZnHLRr8o)
 - [說清楚、講明白一分鐘說話術](https://medium.com/seaniap/%E8%AA%AA%E6%B8%85%E6%A5%9A-%E8%AC%9B%E6%98%8E%E7%99%BD%E4%B8%80%E5%88%86%E9%90%98%E8%AA%AA%E8%A9%B1%E8%A1%93-f62e87cb602)
 - [上台的技術-王永福](https://www.books.com.tw/products/0010657348)[已購買，待整理讀書心得]
+- [【心靈成長】如何讓講話能力從0到100大躍進，表達能力訓練](https://www.youtube.com/watch?v=qDn4KRhiH8Y&lc=Ugz_Iiz4oy68MJLy_7Z4AaABAg.9I_huFfRNYM9bMKlUGnBAM) 
 
 ### 問體整理和訓練方法
 
