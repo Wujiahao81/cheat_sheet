@@ -5,7 +5,7 @@
 - [如何說話讓人喜歡？怎麽做生意更吸引顧客？李永樂老師講框架效應](https://youtu.be/xlmep_us15I)
 - [理工電資領域⼝說要領 | 2021 科學表達工作坊](https://youtu.be/-VrZnHLRr8o)
 - [說清楚、講明白一分鐘說話術](https://medium.com/seaniap/%E8%AA%AA%E6%B8%85%E6%A5%9A-%E8%AC%9B%E6%98%8E%E7%99%BD%E4%B8%80%E5%88%86%E9%90%98%E8%AA%AA%E8%A9%B1%E8%A1%93-f62e87cb602)
-- ["非暴力溝通"](https://www.books.com.tw/products/0010831754)美國微軟公司執行長納德拉（Satya Nadella）上任時，送給每位主管這本書，藉以改善公司內部的溝通文化。[已購買，待閱畢整理讀書心得]
+- [「非暴力溝通」]，(https://www.books.com.tw/products/0010831754)美國微軟公司執行長納德拉（Satya Nadella）上任時，送給每位主管這本書，藉以改善公司內部的溝通文化。[已購買，待閱畢整理讀書心得]
 - [上台的技術-王永福](https://www.books.com.tw/products/0010657348)[已購買，待閱畢整理讀書心得]
 - [《卡內基溝通與人際關係——如何贏取友誼與影響他人》（英語：How to Win Friends and Influence People，中譯名人性的弱點）](https://youtu.be/wPL5N-5BYJ4)[已購買，待閱畢整理讀書心得]
 
