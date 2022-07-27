@@ -10,7 +10,8 @@
 
 
 ### 問體整理和訓練方法
-下表為此影片[【心靈成長】如何讓講話能力從0到100大躍進，表達能力訓練](https://www.youtube.com/watch?v=qDn4KRhiH8Y&lc=Ugz_Iiz4oy68MJLy_7Z4AaABAg.9I_huFfRNYM9bMKlUGnBAM) 之總結、歸納。
+[【心靈成長】如何讓講話能力從0到100大躍進，表達能力訓練](https://www.youtube.com/watch?v=qDn4KRhiH8Y&lc=Ugz_Iiz4oy68MJLy_7Z4AaABAg.9I_huFfRNYM9bMKlUGnBAM)
+下表為此影片之總結、歸納。
 
 |  Problem      | Solution                                                               |
 | ---------- | :-----------------------------------------------------                    |
