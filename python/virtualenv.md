@@ -24,6 +24,10 @@ venv\Scripts\activate
 # 在 Linux 和 macOS 環境（請留意符號上的不同）
 source venv/bin/activate
 ```
+- 這個指令可以用 Visual Studio Code打開當前資料夾:
+```
+code .
+```
 - 離開虛擬環境回到global環境:
 ```
 deactivate
