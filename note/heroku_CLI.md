@@ -59,7 +59,10 @@ heroku config:add TZ="Asia/Taipei"
 ```
 heroku update
 ```
-
+- 如果您的內存受限或應用程序啟動時間很慢，您可能需要考慮啟用該[preload選項](https://devcenter.heroku.com/articles/python-gunicorn#advanced-configuration)。這會在工作進程被派生之前加載應用程序代碼。
+```
+web: gunicorn hello:app --preload
+```
 Reference :  
 [Heroku CLI Commands官方文檔](https://devcenter.heroku.com/articles/heroku-cli-commands)  
 [從LINE BOT到資料視覺化：賴田捕手](https://ithelp.ithome.com.tw/users/20120178/ironman/2654?sc=hot)
