@@ -33,7 +33,7 @@ heroku logs -a 你-APP-的名字
 ```
 heroku logs --tail -a 你-APP-的名字 
 ```
-- 查詢 Heroku APP 目前所使用的擴充功能(addons)。
+- 查詢 Heroku APP 目前所使用的擴充功能(add-ons)。
 ```
 heroku addons -a 你-APP-的名字
 ```
