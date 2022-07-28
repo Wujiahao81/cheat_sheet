@@ -60,4 +60,6 @@ heroku config:add TZ="Asia/Taipei"
 heroku update
 ```
 
-Reference :[從LINE BOT到資料視覺化：賴田捕手](https://ithelp.ithome.com.tw/users/20120178/ironman/2654?sc=hot)
+Reference :  
+[Heroku CLI Commands官方文檔](https://devcenter.heroku.com/articles/heroku-cli-commands)
+[從LINE BOT到資料視覺化：賴田捕手](https://ithelp.ithome.com.tw/users/20120178/ironman/2654?sc=hot)
