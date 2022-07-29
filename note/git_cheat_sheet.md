@@ -2,6 +2,7 @@
 
 ### Tutorial
 - [深入淺出講解及實戰GIT教學!](https://www.bilibili.com/video/BV1FE411P7B3)
+- [廖雪峰的git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 ### Step by step.
 - Create a repository on [Github](https://github.com).
 - Clone the repository to my computer.
