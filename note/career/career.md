@@ -10,6 +10,7 @@
 - [從「如果我離職…」的角度思考工作(Huli)](https://hulitw.medium.com/think-as-if-i-quit-f384091ca2f6)
 
 ## 提升職能
+- [提升英文能力](english.md)
 - [新手如何做作品集或 side project？懶人包在這](https://ithelp.ithome.com.tw/articles/10242875)
 - [如何讓溝通、表達能力大躍進?](express.md) 
 - 大幅提升記憶力的方法-記憶宮殿，將大腦不擅長記住的資訊類型(如文字與數字)，轉換成大腦擅長記憶的資訊類型(如圖像與空間)  

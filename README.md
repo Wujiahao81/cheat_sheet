@@ -22,7 +22,6 @@
 - [C](C/C.md)
 
 ## note
-- [English](note/english.md)
 - [Numeral system](note/num_system.md)
 - [Git](note/git_cheat_sheet.md)
 - [Heroku](note/heroku_CLI.md)
