@@ -5,6 +5,7 @@
 
 ## 筆記
 - MAC address [待編輯]
+- [简单的端口映射教程](https://zhuanlan.zhihu.com/p/43233032)
 - HTTP Status Code 速查，完整的狀態碼數字及其意義參閱維基百科[「HTTP狀態碼」](https://zh.wikipedia.org/zh-tw/HTTP%E7%8A%B6%E6%80%81%E7%A0%81)
   |代碼|類型|代表意義|
   |-|-|-|
