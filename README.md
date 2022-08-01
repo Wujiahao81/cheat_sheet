@@ -29,6 +29,7 @@
 - [Career](note/career/career.md)
 - Regular Expression 正規表達式  [待編輯] [參考](https://5xruby.tw/posts/15min-regular-expression)
 - [Computer Network](note/Network.md)
+- [IOT (Internet of Things)](note/IOT)
 - [Operating Systems](note/OS.md)
 - [Data Structure and Algorithms](note/DSA.md)
 - [Computer Organization/Architecture](note/computer_architecture.md)
