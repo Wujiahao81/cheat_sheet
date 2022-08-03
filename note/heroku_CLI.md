@@ -27,7 +27,7 @@ git push heroku main
 ```
 tree /F
 ```
-- 查看 Heroku 的log
+- 查看 Heroku 的log，如果沒登入，請記得使用 heroku login 登入!
 ```
 heroku logs -a 你-APP-的名字
 ```
