@@ -41,7 +41,11 @@ heroku addons -a 你-APP-的名字
 ```
 - 查詢 Heroku APP 的狀態資訊，可以看到目前免費時數的用量(根據Heroku的官方說法，如果免費的dayno超過每個月能清醒的550小時，那我們所有採用免費dyno的應用程式都會進入睡眠狀態，直到下個月來臨。)
 ```
-heroku ps -a 你-APP-的名字
+
+heroku ps -a 你-APP-的名字 #指定查看該app的狀態
+heroku ps:scale worker=2 # 啟動 worker dyno
+heroku ps:stop worker # 停止所有 worker dynos
+heroku ps:stop worker.2 # 停止指定的 worker dyno
 ```
 - 新增一個 hobby-dev 方案的 Heroku Postgres 至當前的 Heroku APP。
 ```
