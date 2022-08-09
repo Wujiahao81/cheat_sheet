@@ -71,4 +71,5 @@ web: gunicorn hello:app --preload
 ```
 Reference :  
 [Heroku CLI Commands官方文檔](https://devcenter.heroku.com/articles/heroku-cli-commands)  
+[官方 Dynos and the Dyno Manager 文件](https://devcenter.heroku.com/articles/dynos)
 [從LINE BOT到資料視覺化：賴田捕手](https://ithelp.ithome.com.tw/users/20120178/ironman/2654?sc=hot)
