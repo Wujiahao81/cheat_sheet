@@ -16,7 +16,7 @@
 ## pratice
 - [Python](python/python.md)
 - [PostgreSQL](PostgreSQL/PostgreSQL.md)
-- [Windows Batch](windows_batch_file/BAT.md)
+- [Windows Batch F](windows_batch_file/BAT.md)
 - [Golang](Golang/Golang.md)
 - [Java](Java/Java.md)
 - [C](C/C.md)
