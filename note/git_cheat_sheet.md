@@ -43,4 +43,8 @@ git push
 git pull
 ```
 
-
+### problem fix
+- LF will be replaced by CRLF in git - [What is that and is it important? [duplicate]](https://stackoverflow.com/a/5834094)
+```
+git config core.autocrlf true
+```
