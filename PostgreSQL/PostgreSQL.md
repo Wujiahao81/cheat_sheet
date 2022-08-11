@@ -14,3 +14,5 @@
 ### 學習資源
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/current/index.html)  
 - [PostgreSQL 正體中文使用手冊](https://docs.postgresql.tw/)
+- [透過 pgAdmin4 操作 Heroku PostgreSQL 資料庫](https://learningsky.io/database-pgadmin-postgresql-heroku/)
+- [Heroku PGBackups資料庫備份](https://devcenter.heroku.com/articles/heroku-postgres-backups)
