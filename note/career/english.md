@@ -6,5 +6,5 @@
 |  type       |   link                                                               |
 | :----------: | :-----------------------------------------------------                    |
 | 影片    | <br><ul><li> []()</li><li>[]()</li></ul>                                         |
-| 文章    | <br><ul><li>[英語進階指南](https://github.com/byoungd/English-level-up-tips)</li></ul>|
+| 文章    | <br><ul><li>[英語進階指南](https://github.com/byoungd/English-level-up-tips)</li><li>[英文我知道聽讀寫，不知道怎麼說](https://yschen25.blogspot.com/2021/08/howtospeakenglish.html)</li></ul>|
 | 書籍    | <br><ul><li> []()</li><li>[]()</li><li>[]()</li></ul>         |
