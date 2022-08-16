@@ -6,6 +6,7 @@
 - A way to answer questions - star [待編輯]
 - [你問了嗎？那些你忘記問的面試問題](https://www.gvm.com.tw/article/43290)
 - [結構化平時刷題練習、面試流程的技巧、注意事項與範例](https://yschen25.blogspot.com/2022/02/coding-interview.html)
+- [如何答好面試中的系統設計題(九章算數)](https://github.com/ninechapter-algorithm/linghu-algorithm-templete/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%20Syestem%20Design/%E5%A6%82%E4%BD%95%E7%AD%94%E5%A5%BD%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%A2%98.md)
 
 ## 工作
 - [從「如果我離職…」的角度思考工作(Huli)](https://hulitw.medium.com/think-as-if-i-quit-f384091ca2f6)
