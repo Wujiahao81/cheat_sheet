@@ -23,4 +23,6 @@
 - [可以提升思考能力的書](https://github.com/xiaolai/everyone-can-use-english/blob/master/chapter2.md#7-%E6%9B%B4%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E6%80%9D%E8%80%83%E8%83%BD%E5%8A%9B)[待整理]
 - [從程序員到架構師](https://mp.weixin.qq.com/s/CqRruULCJQCa5cbxVk66uA?fbclid=IwAR2nYma5SRCjnJ2KxMu9L4TkN52BjyDhWSGarhJc6lutGB5e1TkvLSjYjpI)
 - [個人 Github 上面有哪些項目會贏得 HR 青睞？](https://www.zhihu.com/question/29356997/answer/1833318847)
+- [刷题想要做到bug free要培养怎样的思维？](https://www.zhihu.com/question/31786933)
 - [作為 Software Engineer，最應該學習的課程和機能Top10是什麼？](https://www.zhihu.com/question/61717398/answer/2627788864)
+- [计算机专业大学生应该在大学四年踏实学哪些东西?](https://www.zhihu.com/question/27368268/answer/2615479673)
