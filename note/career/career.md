@@ -5,6 +5,7 @@
 - [被問願不願意加班如何回答](work_overtime.md)
 - A way to answer questions - star [待編輯]
 - [你問了嗎？那些你忘記問的面試問題](https://www.gvm.com.tw/article/43290)
+- [結構化平時刷題練習、面試流程的技巧、注意事項與範例](https://yschen25.blogspot.com/2022/02/coding-interview.html)
 
 ## 工作
 - [從「如果我離職…」的角度思考工作(Huli)](https://hulitw.medium.com/think-as-if-i-quit-f384091ca2f6)
