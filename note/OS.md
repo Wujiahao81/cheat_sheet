@@ -9,4 +9,4 @@
 ## 筆記
 - [程序(進程)、執行緒(線程)、協程，傻傻分得清楚！](https://oldmo860617.medium.com/%E9%80%B2%E7%A8%8B-%E7%B7%9A%E7%A8%8B-%E5%8D%94%E7%A8%8B-%E5%82%BB%E5%82%BB%E5%88%86%E5%BE%97%E6%B8%85%E6%A5%9A-a09b95bd68dd)
 - [python 多任务 进程 线程 进程池 互斥锁 队列](https://www.bilibili.com/video/BV1FS4y1v7CW/)
-- [每位程式開發者都該有的記憶體知識]https://sysprog21.github.io/cpumemory-zhtw/
+- [每位程式開發者都該有的記憶體知識](https://sysprog21.github.io/cpumemory-zhtw/)
