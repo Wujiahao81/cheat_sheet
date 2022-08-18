@@ -3,6 +3,7 @@
 ## 學習資源
 - [中繼器 (Repeater)、集線器 (Hub)、橋接器 (Bridge)、交換器 (Switch) 原理與介紹](https://notfalse.net/66/repeater-hub-bridge-switch)
 - [python 網路編程(作者:王铭东)](https://doc.itprojects.cn/0001.zhishi/python.0006.networkprogram/index.html#/README)
+- [資料傳遞：Get與Post差異，網路封包傳送的差異(來源:行銷搬進大程式)](https://marketingliveincode.com/?p=4550)
 
 ## 筆記
 - MAC address [待編輯]
