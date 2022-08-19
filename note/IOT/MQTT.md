@@ -9,5 +9,6 @@
 - [MQTT教學（五）：「保留」發布訊息以及QoS品質設定](https://swf.com.tw/?p=1015)
 - [MQTT教學（六）：使用PubSubClient程式庫開發Arduino MQTT應用](https://swf.com.tw/?p=1021)
 - [MQTT教學（七）：使用Node.js訂閱MQTT訊息](https://swf.com.tw/?p=1023)
+- [物聯網基礎傳輸協議 - MQTT](https://ithelp.ithome.com.tw/m/articles/10224407)
 - [Flask Extension for the MQTT protocol](https://github.com/stlehmann/Flask-MQTT)
 - [Flask上使用 MQTT！](https://ithelp.ithome.com.tw/articles/10198250)
