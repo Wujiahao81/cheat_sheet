@@ -9,14 +9,14 @@
 - 網路上找到的OS筆記
   - [CH3 Process](https://hackmd.io/@Chang-Chia-Chi/OS-CH3)
   - [CH4 Multithreaded Programming](https://hackmd.io/@Chang-Chia-Chi/OS-CH4)
-  - [CH5 ](https://hackmd.io/@Chang-Chia-Chi/OS-CH5)
-  - [OS-CH6](https://hackmd.io/@Chang-Chia-Chi/OS-CH6)
-  - [OS-CH7](https://hackmd.io/@Chang-Chia-Chi/OS-CH7)
-  - [OS-CH8](https://hackmd.io/@Chang-Chia-Chi/OS-CH8)
-  - [OS-CH9](https://hackmd.io/@Chang-Chia-Chi/OS-CH9)
-  - [OS-CH10](https://hackmd.io/@Chang-Chia-Chi/OS-CH10)
-  - [OS-CH11](https://hackmd.io/@Chang-Chia-Chi/OS-CH11)
-  - [OS-CH12](https://hackmd.io/@Chang-Chia-Chi/OS-CH12)
+  - [CH5 Process Scheduling](https://hackmd.io/@Chang-Chia-Chi/OS-CH5)
+  - [CH6 Process Synchronization](https://hackmd.io/@Chang-Chia-Chi/OS-CH6)
+  - [Ch7 Deaklock](https://hackmd.io/@Chang-Chia-Chi/OS-CH7)
+  - [CH8 Memory Management](https://hackmd.io/@Chang-Chia-Chi/OS-CH8)
+  - [CH9 Virtual Memory Management](https://hackmd.io/@Chang-Chia-Chi/OS-CH9)
+  - [CH10 File System Interface](https://hackmd.io/@Chang-Chia-Chi/OS-CH10)
+  - [Ch11 : File System Implementation](https://hackmd.io/@Chang-Chia-Chi/OS-CH11)
+  - [Ch12 : Mass Storage System](https://hackmd.io/@Chang-Chia-Chi/OS-CH12)
 - Hackmd找到的[OS筆記(CH0~CH13)](https://hackmd.io/@Pl-eQT9CQaS0jhExKqL8_w/BkhOSR4jW/https%3A%2F%2Fhackmd.io%2Fs%2FS14A_CVjW)作者:陳品媛
 
 
