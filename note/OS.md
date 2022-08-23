@@ -6,7 +6,7 @@
 - iT邦幫忙 [教練，我想自幹作業系統!(作者:交大資工所ianchen0119)](https://ithelp.ithome.com.tw/articles/10274457)
 - iT邦幫忙 [OS作業系統學習(作者:star0720)](https://ithelp.ithome.com.tw/users/20112132/ironman/1884)
 - iT邦幫忙 [杰哥的考研紀錄(作者:ExcitedMail)](https://ithelp.ithome.com.tw/users/20140125/ironman/3945?page=1)
-- 網路上找到的OS筆記
+- Hackmd找到的OS筆記(作者:@Chang-Chia-Chi)
   - [CH3 Process](https://hackmd.io/@Chang-Chia-Chi/OS-CH3)
   - [CH4 Multithreaded Programming](https://hackmd.io/@Chang-Chia-Chi/OS-CH4)
   - [CH5 Process Scheduling](https://hackmd.io/@Chang-Chia-Chi/OS-CH5)
