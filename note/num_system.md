@@ -34,3 +34,6 @@
 | 15 | 1111  | 17 | F  |
 | 16 | 10000 | 20 | 10 |
 
+
+# 參考資料
+[你所不知道的 C 語言：數值系統篇](https://hackmd.io/@sysprog/c-prog/%2Fs%2FBkRKhQGae)作者:jserv
