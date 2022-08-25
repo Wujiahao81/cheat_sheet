@@ -36,4 +36,5 @@
 - [一本更好的Flask书——《Flask Web开发实战》](https://zhuanlan.zhihu.com/p/29907260)
 - [It項目網(包含各種IT基礎知識，作者:王铭东)](https://www.itprojects.cn/coursecenter)
 - [Python常用function與method](https://hackmd.io/@Pl-eQT9CQaS0jhExKqL8_w/H1zRRNkBU)
+- [How to run Flask with Gunicorn in multithreaded mode](https://stackoverflow.com/questions/35837786/how-to-run-flask-with-gunicorn-in-multithreaded-mode)
 
