@@ -20,6 +20,7 @@
 - [Golang](Golang/Golang.md)
 - [Java](Java/Java.md)
 - [C](C/C.md)
+- [JavaScript](JavaScript/JavaScript.md)
 
 ## note
 - [Numeral system](note/num_system.md)
