@@ -37,4 +37,5 @@
 - [It項目網(包含各種IT基礎知識，作者:王铭东)](https://www.itprojects.cn/coursecenter)
 - [Python常用function與method](https://hackmd.io/@Pl-eQT9CQaS0jhExKqL8_w/H1zRRNkBU)
 - [How to run Flask with Gunicorn in multithreaded mode](https://stackoverflow.com/questions/35837786/how-to-run-flask-with-gunicorn-in-multithreaded-mode)
+- [Twitter 後端 - Python Django項目實戰](https://www.jiuzhang.com/course/89/?utm_source=sc-zhanswer-sy0412)(付費課程)
 
