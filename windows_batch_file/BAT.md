@@ -18,7 +18,7 @@
 備註:.bat檔就是batch的縮寫
 
 ## Batch file 範例 
-(注意 : DOS命令不區分大小寫!)
+以下用個wikipedia上簡單的[例子](https://en.wikipedia.org/wiki/Batch_file)來示意(注意 : DOS命令不區分大小寫!)
 ```bat
 @ECHO OFF
 ECHO Hello World!
