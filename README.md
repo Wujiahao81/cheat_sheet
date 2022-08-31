@@ -9,7 +9,7 @@
 
 ## project
 - [auto check printer paper roll status using python](https://github.com/daoxuewu/pyserial_printer_paperstatus)
-- Line chatbot combined with IoT [待編輯]
+- [Line chatbot combined with IoT](https://github.com/daoxuewu/Line-chatbot-combined-with-IoT#line-chatbot-combined-with-iot)
 - [行動通訊技術應用於住宅火警探測器](https://github.com/daoxuewu/firetech_server)
 - [Todo App](https://github.com/daoxuewu/todolist_app)
 
