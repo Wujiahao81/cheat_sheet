@@ -13,11 +13,12 @@
   - [CH6 : Process Synchronization](https://hackmd.io/@Chang-Chia-Chi/OS-CH6)
   - [Ch7 : Deaklock](https://hackmd.io/@Chang-Chia-Chi/OS-CH7)
   - [CH8 : Memory Management](https://hackmd.io/@Chang-Chia-Chi/OS-CH8)
-  - [CH9 : Virtual Memory Management](https://hackmd.io/@Chang-Chia-Chi/OS-CH9)
+  - [CH9 : Virtual Memory Management](https://hackmd.io/@Chang-Chia-Chi/OS-CH9)、ch9另一篇筆記
   - [CH10 : File System Interface](https://hackmd.io/@Chang-Chia-Chi/OS-CH10)
   - [Ch11 : File System Implementation](https://hackmd.io/@Chang-Chia-Chi/OS-CH11)
   - [Ch12 : Mass Storage System](https://hackmd.io/@Chang-Chia-Chi/OS-CH12)
 - Hackmd找到的[OS筆記(CH0~CH13)](https://hackmd.io/@Pl-eQT9CQaS0jhExKqL8_w/BkhOSR4jW/https%3A%2F%2Fhackmd.io%2Fs%2FS14A_CVjW)作者:陳品媛
+- Hackmd找到的[OS筆記(CH1~CH9))](https://hackmd.io/@Zero871015/OS-Note)作者:@Zero871015
 
 
 ## 筆記
