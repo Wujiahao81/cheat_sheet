@@ -1,14 +1,7 @@
 # Windows Batch File
 
->## 練習的程式
-- [刪除在該路徑內所有超過7天的log檔](deloldlogs.bat)
-- [刪除在該路徑內超過一天的所有jpg檔](deloldphoto.bat)
-- [自動關閉並重新啟動程式](auto_restart_your_program.bat)
-- [檢查某程式是否在執行，若沒有回應就刪除並重新啟動他](checkapp.bat)。 
-可以用於一些必須一直執行的程式，[invis.vbs](invis.vbs) 可以讓 [該批次檔](checkapp.bat) 在執行時命令提示字元不會跳出來。
-
->## 補充知識
-批次檔配合windows系統的工作排程器可讓電腦自動化定時執行批次作業，可以避免人為遺忘或漏失的風險。
+>## 前情提要
+Windows Batch File 也就是就是所謂的批次檔，配合windows系統的工作排程器，批次檔可讓電腦自動化定時執行批次作業，在實習期間公司遇到這種需要定期執行的問題(ex.攝影機的備份檔案要定時檢查，若存放超過一定時間要刪除，又或者是有某個重要又需要不能中斷的程式，為了避免不明原因停止執行而我們卻沒發現，需要定期檢查程式是否正常執行等等……)請我處理時，批次檔很多次都立了大功，除了可以省下大量時間之外，也可以省下心力避免人為遺忘或漏失的風險，這樣省時省力的好東西能不學嗎?
 
 ## 如何製作批次檔?
 ```
@@ -35,6 +28,13 @@ Press any key to continue . . .
 方便查詢指令的小工具 : 
 - [CMD命令速查手冊](http://www.cas.idv.tw/Documents/Micorsoft/CMDManual/CMD%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8A.asp)
 - [.bat相關資源網址](batch_resource.md)(幫助過我解決過問題的相關資源我都放在這)
+
+>## 練習過的程式
+- [刪除在該路徑內所有超過7天的log檔](deloldlogs.bat)
+- [刪除在該路徑內超過一天的所有jpg檔](deloldphoto.bat)
+- [自動關閉並重新啟動程式](auto_restart_your_program.bat)
+- [檢查某程式是否在執行，若沒有回應就刪除並重新啟動他](checkapp.bat)。 
+可以用於一些必須一直執行的程式，[invis.vbs](invis.vbs) 可以讓 [該批次檔](checkapp.bat) 在執行時命令提示字元不會跳出來。
 
 ## 批次檔下註解的方法
 ```
