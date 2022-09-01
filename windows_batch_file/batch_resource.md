@@ -22,7 +22,7 @@
 
 - [@echo on跟off 差別 (windows用來顯示訊息的指令是echo，其後可以加上字串或變數(可混搭))](http://forum.twbts.com/thread-10177-1-1.html)
 
-- [檢查process並執行程式 (windows排程) 檢查某些程式是否在運作，如果沒有運作，則執行啟動。](http://pinecone-note.blogspot.com/2018/11/process-windows-batch.html)
+- [檢查process並執行程式 (windows排程) 檢查某些程式是否在運作，如果沒有運作，則執行啟動。](http://pinecone-note.blogspot.com/2018/11/process-windows-batch.html)(內有提到invis.vbs檔案，可以解決每次排程執行時，windows命令視窗閃現又消失的問題)
 
 - [%ERRORLEVEL% (Windows系統檢查程式否執行成功)](https://blog.miniasp.com/post/2010/10/04/Windows-Batch-ERRORLEVEL-and-Linux-Bash-Exit-Status)
 
