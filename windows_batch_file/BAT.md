@@ -34,7 +34,7 @@ Press any key to continue . . .
 - [刪除在該路徑內超過一天的所有jpg檔](deloldphoto.bat)
 - [自動關閉並重新啟動程式](auto_restart_your_program.bat)
 - [檢查某程式是否在執行，若沒有回應就刪除並重新啟動他](checkapp.bat)。 
-可以用於一些必須一直執行的程式，[invis.vbs](invis.vbs) 可以讓 [該批次檔](checkapp.bat) 在執行時命令提示字元不會跳出來。
+可以用於一些必須一直執行的程式，[invis.vbs](invis.vbs) 可以解決每次排程執行時，windows命令視窗閃現又消失的問題，讓該批次檔在執行時命令提示字元不會跳出來。
 
 ## 批次檔下註解的方法
 ```
