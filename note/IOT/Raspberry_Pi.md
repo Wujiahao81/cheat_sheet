@@ -5,3 +5,4 @@
 - [remote access](https://www.raspberrypi.com/documentation/computers/remote-access.html#introduction-to-remote-access)
 - [pinout.xyz](https://pinout.xyz/), an open-source database of Raspberry Pi GPIO pins
 - [Raspberry Pi 4 GPIO Pinout](https://linuxhint.com/gpio-pinout-raspberry-pi/)(幫助了解各個引腳的操作)
+- [上拉電阻&下拉電阻 - GPIO新手入門必知【明富其識】](https://youtu.be/k_GAuSONCqo)
