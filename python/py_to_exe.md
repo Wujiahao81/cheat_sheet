@@ -22,9 +22,10 @@ auto-py-to-exe
 ```
 
 ### 參考網址
-- [使用auto-py-to-exe完美打包python程序(簡體中文教學)](https://zhuanlan.zhihu.com/p/130328237)
+- [使用auto-py-to-exe完美打包python程序](https://zhuanlan.zhihu.com/p/130328237)
 - [Python 打包成 exe 終極方案](https://www.readfog.com/a/1636267007799300096)
 - [别再问我怎么Python打包成exe了！](https://mp.weixin.qq.com/s/zilDeFunWLG0mBS_x0vNnA)
+- [Python 打包成 exe，太大了該怎麼解決？](https://www.zhihu.com/question/281858271/answer/613147412)
 
 ### 問題排解
 - [Issues When Using auto-py-to-exe](https://nitratine.net/blog/post/issues-when-using-auto-py-to-exe/?utm_source=auto_py_to_exe&utm_medium=application_link&utm_campaign=auto_py_to_exe_help&utm_content=top)  
