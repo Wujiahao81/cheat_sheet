@@ -1,5 +1,23 @@
 # 打包python成exe檔
-### 教學網址
+
+### 快速開始
+一般打包輸入下列指令即可:
+
+```python
+Pyinstaller -F setup.py 打包exe
+
+Pyinstaller -F -w setup.py 不带控制台的打包
+
+Pyinstaller -F -i xx.ico setup.py 打包指定exe圖標打包
+```
+
+如果不想自己輸入程式碼可以用工具 [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
+
+```
+pip install auto-py-to-exe
+```
+
+### 參考網址
 - [使用auto-py-to-exe完美打包python程序(簡體中文教學)](https://zhuanlan.zhihu.com/p/130328237)
 - [Python 打包成 exe 終極方案](https://www.readfog.com/a/1636267007799300096)
 - [别再问我怎么Python打包成exe了！](https://mp.weixin.qq.com/s/zilDeFunWLG0mBS_x0vNnA)
