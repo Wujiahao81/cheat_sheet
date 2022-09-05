@@ -21,6 +21,12 @@ pip install auto-py-to-exe
 auto-py-to-exe
 ```
 
+### 打包過程中需要注意的點
+- 在程式碼裡面盡量不要用import，能用from……import……就盡量用這個，因為如果是import的話，在打包的時候，會將整個引用的包都打包到exe裡面，造成沒有意義的增加了打包完程式的大小!
+- 程式的路徑最好全部都是英文，否則可能會出現莫名其妙的問題
+- 安裝pyinstaller之前記得要把pip升級成最新版的pip再進行安裝，避免出現莫名其妙的問題。
+
+
 ### 參考網址
 - [使用auto-py-to-exe完美打包python程序](https://zhuanlan.zhihu.com/p/130328237)
 - [Python 打包成 exe 終極方案](https://www.readfog.com/a/1636267007799300096)
