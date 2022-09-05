@@ -13,8 +13,12 @@ Pyinstaller -F -i xx.ico setup.py 打包指定exe圖標打包
 
 如果不想自己輸入程式碼可以用工具 [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
 
-```
+```python 
+# 下載 
 pip install auto-py-to-exe
+
+# 啟動
+auto-py-to-exe
 ```
 
 ### 參考網址
