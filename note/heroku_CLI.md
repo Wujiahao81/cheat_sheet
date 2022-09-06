@@ -31,7 +31,7 @@ tree /F
 ```
 heroku logs -a 你-APP-的名字
 ```
-- 查看 Heroku 的log(持續打印日誌)
+- 持續打印 Heroku 的log日誌(可以對照[Heroku router log format](https://devcenter.heroku.com/articles/http-routing#heroku-router-log-format)去閱讀)
 ```
 heroku logs --tail -a 你-APP-的名字 
 ```
