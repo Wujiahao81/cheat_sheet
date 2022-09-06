@@ -40,4 +40,4 @@
 - [peer-admin-flask](https://gitee.com/pear-admin/pear-admin-flask)
 - [通過優化 Gunicorn 配置提高性能](https://github.com/xitu/gold-miner/blob/master/TODO1/gunicorn-3-means-of-concurrency.md)
 - [Flask with Gunicorn](https://sean22492249.medium.com/flask-with-gunicorn-9a37bca29227)
-- 
+- [淺談 GIL & Thread-safe & Atomic operation](https://www.maxlist.xyz/2020/03/15/gil-thread-safe-atomic/)
