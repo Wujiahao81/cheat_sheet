@@ -13,7 +13,7 @@ pip install flask-apscheduler
 ```
 - ASPcheduler中的重要概念  
 `Job` 任務  
-Job 作為 APScheduler 最小執行單位。創建 Job 時指定執行的函數，函數中所需參數，Job 執行時的一些設置信息。  
+Job 作為 APScheduler 最小執行單位。指定好要執行的函數、函數所需參數(if any)、調度器(scheduler)類型以及觸發器(trigger)設置信息就可以創建一個Job。
 
 ## 範例程式
 ```python
