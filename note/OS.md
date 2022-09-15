@@ -26,3 +26,4 @@
 - [python 多任务 进程 线程 进程池 互斥锁 队列](https://www.bilibili.com/video/BV1FS4y1v7CW/)
 - [每位程式開發者都該有的記憶體知識](https://sysprog21.github.io/cpumemory-zhtw/)
 - [並行程式設計: 概念](https://hackmd.io/@sysprog/concurrency-concepts)作者:jserv
+- [Semaphore、Mutex的同步(iThome鐵人賽:從零開始土炮MQ系列 第 7 篇)](https://ithelp.ithome.com.tw/articles/10219642)
