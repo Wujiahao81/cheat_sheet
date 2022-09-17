@@ -5,6 +5,7 @@
 >數學在計算機科學中的地位更是舉足輕重，想要有一番發展一定要好好善用數學這個強大的工具。
 ### 教學資源
 - 先備知識-[交大莊重微積分OCW (103學年度)](https://www.youtube.com/playlist?list=PLj6E8qlqmkFtwDlDoBnbyhCfAa7JL52OG)
+- 數學真的爛到不行的話也可以來這惡補[張翔老師基礎數學](https://shiangsir.wixsite.com/shiangsir/tutorialmath)
 - [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&t=1s) (3Blue1Brown) 
 - [線代啟示錄](https://ccjou.wordpress.com/)
 - [台大李宏毅線性代數OCW (2021)](https://speech.ee.ntu.edu.tw/~hylee/la/2021-fall.php)
