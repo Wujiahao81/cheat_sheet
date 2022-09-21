@@ -34,6 +34,7 @@
 - [Python - 100天從新手到大師](https://github.com/jackfrued/Python-100-Days)
 - [flask網頁建置(註冊、登入、頁面內容)教學電子書(作者:@shaoeChen)](https://hackmd.io/@shaoeChen/HJiZtEngG/https%3A%2F%2Fhackmd.io%2Fs%2FrkgXYoBeG)
 - [一本更好的Flask书——《Flask Web开发实战》](https://zhuanlan.zhihu.com/p/29907260)
+- [Flask 入门教程 作者:李輝(Grey Li)](https://tutorial.helloflask.com/)
 - [It項目網(包含各種IT基礎知識，作者:王铭东)](https://www.itprojects.cn/coursecenter)
 - [Python常用function與method](https://hackmd.io/@Pl-eQT9CQaS0jhExKqL8_w/H1zRRNkBU)
 - [How to run Flask with Gunicorn in multithreaded mode](https://stackoverflow.com/questions/35837786/how-to-run-flask-with-gunicorn-in-multithreaded-mode)
