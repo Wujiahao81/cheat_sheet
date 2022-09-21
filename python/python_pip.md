@@ -1,5 +1,10 @@
 # pip 指令全記錄
 
+- python更新 pip 套件 (可以使用Python命令参数-m選項来安裝，-m的意思是用Python解釋器來運行pip再更新，這目前[最推薦使用安裝方式](https://zhuanlan.zhihu.com/p/480918238)，因為`python -m pip`可以確保想安裝的包和當前的解釋器是同一個環境):
+```python
+python -m pip install --upgrade pip
+python -m pip install -U pip
+```
 - 安裝套件： 可以將 flask 換成任何想安裝的 Python 套件
 ```python
 pip install flask
@@ -28,8 +33,4 @@ pip install -r requirements.txt
 ```python
 pip freeze > requirements.txt
 ```
-- python更新 pip 套件 (可以使用Python命令参数-m選項来安裝，-m的意思是用Python解釋器來運行pip再更新):
-```python
-python -m pip install --upgrade pip
-python -m pip install -U pip
-```
+
