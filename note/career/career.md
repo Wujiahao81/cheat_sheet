@@ -23,6 +23,7 @@
   - [４步驟學會「宮殿記憶法」](https://www.cheers.com.tw/article/article.action?id=5099857&page=2)  
   - [清華生錦華挑戰背書極限](https://www.youtube.com/watch?v=3Xe9x_ysCug)
   - [嗨Kiki生活手記介紹，連四屆美國記憶冠軍的「超效率記憶法](https://www.youtube.com/watch?v=Tfe30t4K33g)
+- [寫作是可以改變人生的超級技能](https://twitter.com/coolxiao/status/1554667451203276801?s=21)
 - [可以提升思考能力的書](https://github.com/xiaolai/everyone-can-use-english/blob/master/chapter2.md#7-%E6%9B%B4%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E6%80%9D%E8%80%83%E8%83%BD%E5%8A%9B)[待整理]
 - [如果你需要被鼓勵或是保持進步的動力可以看這](motivate.md)
 - [從程序員到架構師](https://mp.weixin.qq.com/s/CqRruULCJQCa5cbxVk66uA?fbclid=IwAR2nYma5SRCjnJ2KxMu9L4TkN52BjyDhWSGarhJc6lutGB5e1TkvLSjYjpI)
