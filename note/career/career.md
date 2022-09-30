@@ -15,6 +15,7 @@
 - [從「如果我離職…」的角度思考工作(Huli)](https://hulitw.medium.com/think-as-if-i-quit-f384091ca2f6)
 
 ## 提升職能
+- [如果你需要被鼓勵或是保持進步的動力可以看這](motivate.md)
 - [提升英文能力](english.md)
 - [新手如何做作品集或 side project？懶人包在這](https://ithelp.ithome.com.tw/articles/10242875)
 - [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
@@ -25,7 +26,6 @@
   - [嗨Kiki生活手記介紹，連四屆美國記憶冠軍的「超效率記憶法](https://www.youtube.com/watch?v=Tfe30t4K33g)
 - [寫作是可以改變人生的超級技能](https://twitter.com/coolxiao/status/1554667451203276801?s=21)
 - [可以提升思考能力的書](https://github.com/xiaolai/everyone-can-use-english/blob/master/chapter2.md#7-%E6%9B%B4%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E6%80%9D%E8%80%83%E8%83%BD%E5%8A%9B)[待整理]
-- [如果你需要被鼓勵或是保持進步的動力可以看這](motivate.md)
 - [從程序員到架構師](https://mp.weixin.qq.com/s/CqRruULCJQCa5cbxVk66uA?fbclid=IwAR2nYma5SRCjnJ2KxMu9L4TkN52BjyDhWSGarhJc6lutGB5e1TkvLSjYjpI)
 - [個人 Github 上面有哪些項目會贏得 HR 青睞？](https://www.zhihu.com/question/29356997/answer/1833318847)
 - [刷题想要做到bug free要培养怎样的思维？](https://www.zhihu.com/question/31786933)
