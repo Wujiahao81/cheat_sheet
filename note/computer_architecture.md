@@ -11,7 +11,7 @@
 
 ### 知識點
 - [資料轉移指令](https://www.ptt.cc/bbs/Grad-ProbAsk/M.1404876191.A.148.html)
-
+- [自己考研時整理的筆記](https://hackmd.io/@JustinWu/Hy89i7Vfs)
 
 ### 應用
 - [待編輯]
