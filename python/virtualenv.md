@@ -57,3 +57,5 @@ rm -rf venv
 >
 >參考資料:[何敏煌老師的課程教材](https://104.es/2021/04/28/python-virtualenv-introduction/)
 
+#問題排解
+- 在Windows上可能會遇到[輸入指令出現「因為這個系統上已停用指令碼執行，所以無法載入...」的問題](https://israynotarray.com/other/20200510/1067127387/)
