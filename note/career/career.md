@@ -13,6 +13,7 @@
 
 ## 工作
 - [從「如果我離職…」的角度思考工作(Huli)](https://hulitw.medium.com/think-as-if-i-quit-f384091ca2f6)
+- [再也不怕聊天時沒話聊很尷尬]()
 - [怕聊天沒話聊很尷尬？教你 5 種找話題的方法 (How To Never Run Out Of Things To Say In Conversation)](https://tw.voicetube.com/videos/61241)
 
 ## 提升職能
