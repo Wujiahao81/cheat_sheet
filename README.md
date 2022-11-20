@@ -52,6 +52,7 @@
 - [Z-Library](https://zh.z-lib.org/)(原文書資料庫)
 - [OBS-Open Broadcaster Software](https://obsproject.com/)(開源錄影軟體)
 - [VLC](https://www.videolan.org/vlc/index.zh_TW.html)(開源影片撥放器)
+- [envato elements](https://elements.envato.com/)(付費影片創作素材)
 ## 免責聲明
 內容皆為紀錄自己練習、學習過的內容或是網路上寫得很好的文章、影片之連結，僅供學習使用，不得商用，如有侵權請馬上聯繫我，我會立馬刪除該項目。  
 我的email:daoxue90@gmail.com
