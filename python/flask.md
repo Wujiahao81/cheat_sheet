@@ -16,3 +16,5 @@ Flask 是一個非常輕量的Python Web框架，它僅保留了Web框架的核�
 - [Flask with Gunicorn](https://sean22492249.medium.com/flask-with-gunicorn-9a37bca29227)
 - [使用 Flask-SocketIO 完成 WebSocket 雙向通訊](https://medium.com/@charming_rust_oyster_221/%E4%BD%BF%E7%94%A8-flask-socketio-%E5%AE%8C%E6%88%90-websocket-%E9%9B%99%E5%90%91%E9%80%9A%E8%A8%8A-49fd734f52ae)
 - [WSGI、Flask及Werkzeug三者之间的关系](https://blog.csdn.net/lovedingd/article/details/106685914)
+- [WSGI規範(PEP 3333) 第一部分（概述）](https://zhuanlan.zhihu.com/p/27600327)WSGI 的全稱是：Web Server Gateway Interface，介於 web server 和應用 server 之間的接口規範。當使用 Python 進行 web 開發時，要深刻理解 Django、Flask、Tornado等 web 框架，WSGI是你繞不過去的檻。
+- 
