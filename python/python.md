@@ -25,6 +25,7 @@
 - [python 文件讀寫w r a w+ r+ a+ rb wb ab總結](https://blog.csdn.net/weixin_38739735/article/details/90607120)
 - [Python 定時執行任務(APScheduler、Flask-APScheduler)](APScheduler.md)
 - [pandas](pandas.md)
+- [Python 裡的 yield — 讓你簡單、快速瞭解 yield 的概念](https://chriskang028.medium.com/python-%E8%A3%A1%E7%9A%84-yield-%E8%AE%93%E4%BD%A0%E7%B0%A1%E5%96%AE-%E5%BF%AB%E9%80%9F%E7%9E%AD%E8%A7%A3-yield-%E7%9A%84%E6%A6%82%E5%BF%B5-f660521f3aa7)
 
 ## side project
 - [Flask-membersystem(MongoDB)](https://github.com/daoxuewu/flask-membersystem)
