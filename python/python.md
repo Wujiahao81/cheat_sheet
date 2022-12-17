@@ -6,7 +6,7 @@
 - [Python回呼函式(Callback Function)練習](callback_function.py)
 - [平、閏年判定](year_detect.py)
 - 輸出指定範圍內的質數 [for迴圈解法](is_prime.py)、[function解法](is_prime_function.py)
-- [Flask-membersystem(MongoDB)](https://github.com/daoxuewu/flask-membersystem)
+
 - Python tcp socket 
 
   (簡易版) 
@@ -24,23 +24,21 @@
 - [區網內用MAC address找樹莓派的IP地址](mac_to_ip.md)
 - [python 文件讀寫w r a w+ r+ a+ rb wb ab總結](https://blog.csdn.net/weixin_38739735/article/details/90607120)
 - [Python 定時執行任務(APScheduler、Flask-APScheduler)](APScheduler.md)
-- [Flask項目配置（Configuration）
-](https://zhuanlan.zhihu.com/p/24055329)
 - [pandas](pandas.md)
+
+## side project
+- [Flask-membersystem(MongoDB)](https://github.com/daoxuewu/flask-membersystem)
+
+- [todolist app](https://github.com/daoxuewu/todolist_app)
 
 ## 學習資源
 - 彭彭[Python入門系列](https://www.youtube.com/watch?v=wqRlKVRUV_k&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)、[Flask、MongoDB網站後端開發](https://www.youtube.com/watch?v=UdRxvHVXTxA&list=PL-g0fdC5RMboN18JNTMCEfe8Ldk8C5pS-)
 - [自學是門手藝-李笑來](https://github.com/selfteaching/the-craft-of-selfteaching)
 - [Python - 100天從新手到大師](https://github.com/jackfrued/Python-100-Days)
-- flask 相關
-- [flask網頁建置(註冊、登入、頁面內容)教學電子書(作者:@shaoeChen)](https://hackmd.io/@shaoeChen/HJiZtEngG/https%3A%2F%2Fhackmd.io%2Fs%2FrkgXYoBeG)
-- [一本更好的Flask书——《Flask Web开发实战》](https://zhuanlan.zhihu.com/p/29907260)
-- [Flask 入门教程 作者:李輝(Grey Li)](https://tutorial.helloflask.com/)
-- [Flask Web 开发：基于 Python 的 Web 应用开发实战](https://l1nwatch.gitbook.io/flask-web-python-web/)
+- [flask 相關](flask.md)  
+
 - [It項目網(包含各種IT基礎知識，作者:王铭东)](https://www.itprojects.cn/coursecenter)
 - [Python常用function與method](https://hackmd.io/@Pl-eQT9CQaS0jhExKqL8_w/H1zRRNkBU)
 - [How to run Flask with Gunicorn in multithreaded mode](https://stackoverflow.com/questions/35837786/how-to-run-flask-with-gunicorn-in-multithreaded-mode)
-- [peer-admin-flask](https://gitee.com/pear-admin/pear-admin-flask)
 - [通過優化 Gunicorn 配置提高性能](https://github.com/xitu/gold-miner/blob/master/TODO1/gunicorn-3-means-of-concurrency.md)
-- [Flask with Gunicorn](https://sean22492249.medium.com/flask-with-gunicorn-9a37bca29227)
 - [淺談 GIL & Thread-safe & Atomic operation](https://www.maxlist.xyz/2020/03/15/gil-thread-safe-atomic/)
