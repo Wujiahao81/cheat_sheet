@@ -1,8 +1,10 @@
 # flask
 ![flask img](https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png)
 
-> flask 的Logo雖然看起來很像辣椒，但其實他是角狀的容器(powder horn)  
+> Flask 的Logo雖然看起來很像辣椒，但其實他是角狀的容器(powder horn)  
 >\- 李輝
+
+Flask 是一個非常輕量的Python Web框架，它僅保留了Web框架的核心，其他的功能都交給擴展實現。如果沒有合適的擴展，你甚至可以自己編寫，Flask不會替你做決定，也不會限制你的選擇。因為它足夠輕量，你甚至可以只用5行就編寫出一個最簡單的web程序，但並不簡陋，它能夠適應各類項目的開發。
 
 - [flask網頁建置(註冊、登入、頁面內容)教學電子書(作者:@shaoeChen)](https://hackmd.io/@shaoeChen/HJiZtEngG/https%3A%2F%2Fhackmd.io%2Fs%2FrkgXYoBeG)
 - [一本更好的Flask书——《Flask Web开发实战》](https://zhuanlan.zhihu.com/p/29907260)
@@ -12,3 +14,5 @@
 ](https://zhuanlan.zhihu.com/p/24055329)
 - [peer-admin-flask](https://gitee.com/pear-admin/pear-admin-flask)
 - [Flask with Gunicorn](https://sean22492249.medium.com/flask-with-gunicorn-9a37bca29227)
+- [使用 Flask-SocketIO 完成 WebSocket 雙向通訊](https://medium.com/@charming_rust_oyster_221/%E4%BD%BF%E7%94%A8-flask-socketio-%E5%AE%8C%E6%88%90-websocket-%E9%9B%99%E5%90%91%E9%80%9A%E8%A8%8A-49fd734f52ae)
+- 
