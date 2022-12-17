@@ -18,4 +18,4 @@ Flask 是一個非常輕量的Python Web框架，它僅保留了Web框架的核�
 - [WSGI、Flask及Werkzeug三者之间的关系](https://blog.csdn.net/lovedingd/article/details/106685914)
 - [WSGI規範(PEP 3333) 第一部分（概述）](https://zhuanlan.zhihu.com/p/27600327)WSGI 的全稱是：Web Server Gateway Interface，介於 web server 和應用 server 之間的接口規範。當使用 Python 進行 web 開發時，要深刻理解 Django、Flask、Tornado等 web 框架，WSGI是你繞不過去的檻。  
 原始文檔:[PEP 3333 -- Python Web Server Gateway Interface v1.0.1](https://peps.python.org/pep-3333/)
-- 
+- [客製化WSGI的middleware](https://ithelp.ithome.com.tw/articles/10201217)
