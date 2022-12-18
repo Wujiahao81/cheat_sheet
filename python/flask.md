@@ -7,6 +7,7 @@
 Flask 是一個非常輕量的Python Web框架，它僅保留了Web框架的核心，其他的功能都交給擴展實現。如果沒有合適的擴展，你甚至可以自己編寫，Flask不會替你做決定，也不會限制你的選擇。因為它足夠輕量，你甚至可以只用5行就編寫出一個最簡單的web程序，但並不簡陋，它能夠適應各類項目的開發。
 
 - [flask網頁建置(註冊、登入、頁面內容)教學電子書(作者:@shaoeChen)](https://hackmd.io/@shaoeChen/HJiZtEngG/https%3A%2F%2Fhackmd.io%2Fs%2FrkgXYoBeG)
+- [Flask、MongoDB網站後端開發 (youtube彭彭)](https://www.youtube.com/watch?v=UdRxvHVXTxA&list=PL-g0fdC5RMboN18JNTMCEfe8Ldk8C5pS-)
 - [一本更好的Flask书——《Flask Web开发实战》](https://zhuanlan.zhihu.com/p/29907260)
 - [Flask 入门教程 作者:李輝(Grey Li)](https://tutorial.helloflask.com/)
 - [Flask Web 开发：基于 Python 的 Web 应用开发实战](https://l1nwatch.gitbook.io/flask-web-python-web/)
