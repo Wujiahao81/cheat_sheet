@@ -34,7 +34,7 @@
 - [todolist app](https://github.com/daoxuewu/todolist_app)
 
 ## 學習資源
-- 彭彭[Python入門系列](https://www.youtube.com/watch?v=wqRlKVRUV_k&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)、[Flask、MongoDB網站後端開發](https://www.youtube.com/watch?v=UdRxvHVXTxA&list=PL-g0fdC5RMboN18JNTMCEfe8Ldk8C5pS-)
+- 彭彭[Python入門系列](https://www.youtube.com/watch?v=wqRlKVRUV_k&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)
 - [自學是門手藝-李笑來](https://github.com/selfteaching/the-craft-of-selfteaching)
 - [Python - 100天從新手到大師](https://github.com/jackfrued/Python-100-Days)
 - [flask 相關](flask.md)  
