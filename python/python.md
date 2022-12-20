@@ -26,6 +26,7 @@
 - [Python 定時執行任務(APScheduler、Flask-APScheduler)](APScheduler.md)
 - [pandas](pandas.md)
 - [Python 裡的 yield — 讓你簡單、快速瞭解 yield 的概念](https://chriskang028.medium.com/python-%E8%A3%A1%E7%9A%84-yield-%E8%AE%93%E4%BD%A0%E7%B0%A1%E5%96%AE-%E5%BF%AB%E9%80%9F%E7%9E%AD%E8%A7%A3-yield-%E7%9A%84%E6%A6%82%E5%BF%B5-f660521f3aa7)(yield 設計來的目的，就是為了單次輸出內容。我們可以把 yield 暫時看成 return，但是這個 return 的功能只有單次。而且，一旦我們的程式執行到 yield 後，程式就會把值丟出，並暫時停止。直到下一次的遞迴，程式才會從 yield 的下一行開始執行。)
+- [Python 項目的 .gitignore 模板](https://github.com/github/gitignore/blob/main/Python.gitignore)
 - 
 
 ## side project
