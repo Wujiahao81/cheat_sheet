@@ -8,6 +8,7 @@
 - [CLRS Solutions](https://walkccc.github.io/CLRS/)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [neetcode](https://neetcode.io/)是一個google員工在準備面試時，整理好的150題leetcode，難度由簡單到難，並包含所有題型。
+- [對數律怎麼用？其實規則很簡單｜#數學3乘3 ｜曉戴數學｜高中指數與對數](https://youtu.be/ryFuZ6Tny1o)
 
 ### 專有名詞
 - [從找衣服了解時間複雜度（Time Complexity）](https://pjchender.blogspot.com/2021/05/time-complexity.html)
