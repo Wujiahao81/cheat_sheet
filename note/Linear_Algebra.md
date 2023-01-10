@@ -12,5 +12,10 @@
 - [清大趙啟超線性代數OCW (2019)](https://www.youtube.com/playlist?list=PLS0SUwlYe8cwxscGGxCUqQ78_AMJHQJ5u)
 - [MIT OCW](https://www.youtube.com/playlist?list=PL4J3lLSgj0XZd7ERpoPdyZOwCMhBzrOfc)  (Gilbert Strang)
 
+### 專有名詞
+- [ difference tween the symbol ↦ and the symbol →](https://math.stackexchange.com/a/3575632)
+- [(180-θ)關係式 (奇變偶不變，正負看原象限)](https://meteor.today/article/z6SuGt)
+- [座標轉換矩陣](https://ch-hsieh.blogspot.com/2015/10/blog-post_95.html?m=1)
+
 ### 應用
 - [待編輯]
