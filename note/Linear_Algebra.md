@@ -13,9 +13,12 @@
 - [MIT OCW](https://www.youtube.com/playlist?list=PL4J3lLSgj0XZd7ERpoPdyZOwCMhBzrOfc)  (Gilbert Strang)
 
 ### 專有名詞
+- [如何通俗理解矩阵左乘和右乘的区别？](https://www.zhihu.com/question/449981594)
+- [乘法/积运算和符号（点乘/内积/数量积，叉乘/向量积，矩阵乘法，Hadamard, Kronecker积，卷积）一网打尽](https://blog.csdn.net/Forrest97/article/details/109250728)
 - [ difference tween the symbol ↦ and the symbol →](https://math.stackexchange.com/a/3575632)
 - [(180-θ)關係式 (奇變偶不變，正負看原象限)](https://meteor.today/article/z6SuGt)
 - [座標轉換矩陣](https://ch-hsieh.blogspot.com/2015/10/blog-post_95.html?m=1)
+- [掰开揉碎推导Normal Equation](https://zhuanlan.zhihu.com/p/22757336?utm_id=0)
 
 ### 應用
 - [待編輯]
