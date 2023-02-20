@@ -5,6 +5,8 @@
 - [廖雪峰的git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 - [快速上手Git(作者:王铭东)](https://doc.itprojects.cn/0001.zhishi/python.0011.git/index.html#/README)
 - [【git】如何寫好的commit訊息](https://youtu.be/g9-X6fR2eYA)
+- [初心者懶人包git入門](https://www.maxlist.xyz/2020/05/10/git-tutorial/)
+
 ### Step by step.
 - Create a repository on [Github](https://github.com).
 - Clone the repository to my computer.
