@@ -19,6 +19,8 @@
 - [(180-θ)關係式 (奇變偶不變，正負看原象限)](https://meteor.today/article/z6SuGt)
 - [座標轉換矩陣](https://ch-hsieh.blogspot.com/2015/10/blog-post_95.html?m=1)
 - [掰开揉碎推导Normal Equation](https://zhuanlan.zhihu.com/p/22757336?utm_id=0)
+- [特徵向量(Eigenvector) 及 特徵值(Eigenvalue) 的定義及求法](https://silverwind1982.pixnet.net/blog/post/154593170)
+- 
 
 ### 應用
 - [待編輯]
