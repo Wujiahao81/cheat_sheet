@@ -9,6 +9,7 @@
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [neetcode](https://neetcode.io/)是一個google員工在準備面試時，整理好的150題leetcode，難度由簡單到難，並包含所有題型。
 - [對數律怎麼用？其實規則很簡單｜#數學3乘3 ｜曉戴數學｜高中指數與對數](https://youtu.be/ryFuZ6Tny1o)
+- [演算法學習之-Leetcode-破關總指南（一）](https://medium.com/appworks-school/%E6%BC%94%E7%AE%97%E6%B3%95%E5%AD%B8%E7%BF%92%E4%B9%8B-leetcode-%E7%A0%B4%E9%97%9C%E7%B8%BD%E6%8C%87%E5%8D%97-%E4%B8%80-873b3fb65152)
 
 ### 專有名詞
 - [從找衣服了解時間複雜度（Time Complexity）](https://pjchender.blogspot.com/2021/05/time-complexity.html)
