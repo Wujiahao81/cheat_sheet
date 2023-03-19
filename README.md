@@ -20,6 +20,7 @@
 - [Golang](Golang/Golang.md)
 - [Java](Java/Java.md)
 - [C](C/C.md)
+- [C++](C++/Cpp.md)
 - [JavaScript](JavaScript/JavaScript.md)
 
 ## note
