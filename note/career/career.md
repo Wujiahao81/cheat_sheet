@@ -1,6 +1,7 @@
 # 關於職場
 ## Job interview 面試
 - 巴哈大神整理[台灣軟體業業界現況詳解、軟體工程師指南](https://forum.gamer.com.tw/C.php?bsn=60076&snA=5444020)
+- [讓我拿到FAANG面試的履歷-Terry(HackBear泰瑞)](https://youtu.be/MsbzY6QbRVA)
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [被問願不願意加班如何回答](work_overtime.md)
 - A way to answer questions - star [待編輯]
