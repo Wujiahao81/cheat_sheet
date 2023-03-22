@@ -6,6 +6,8 @@
 - [快速上手Git(作者:王铭东)](https://doc.itprojects.cn/0001.zhishi/python.0011.git/index.html#/README)
 - [【git】如何寫好的commit訊息](https://youtu.be/g9-X6fR2eYA)
 - [初心者懶人包git入門](https://www.maxlist.xyz/2020/05/10/git-tutorial/)
+- [Git必懂指令](https://git-tutorial.readthedocs.io/zh/latest/commands.html)
+- [Git 還原](https://w3c.hexschool.com/git/1b44e53)
 
 ### Step by step.
 - Create a repository on [Github](https://github.com).
