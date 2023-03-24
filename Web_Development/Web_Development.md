@@ -1,5 +1,8 @@
 # Web Development
 
+## know-how
+- [常用網頁設計中英文對照、英文網頁設計用詞](https://www.cadiis.com.tw/blog/website-nouns-table)
+
 ## html
 
 ## CSS
