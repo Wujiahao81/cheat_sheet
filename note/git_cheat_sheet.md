@@ -8,6 +8,8 @@
 - [初心者懶人包git入門](https://www.maxlist.xyz/2020/05/10/git-tutorial/)
 - [Git必懂指令](https://git-tutorial.readthedocs.io/zh/latest/commands.html)
 - [Git 還原](https://w3c.hexschool.com/git/1b44e53)
+- [【git教學 #1】15分鐘學會git & github（附實例）](https://youtu.be/Zd5jSDRjWfA)(走歪的工程師)
+- 
 
 ### Step by step.
 - Create a repository on [Github](https://github.com).
