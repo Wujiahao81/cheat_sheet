@@ -14,7 +14,7 @@
 - [網戰『Bootstrap』系列教學-響應式網站必學](https://youtube.com/playlist?list=PL4UYD9wGXOSIIAtTufwfzzlhO44m20LSQ)
 
 ## javascript
-
+- [JavaScript ES6 與 React 前端開發：從入門到進階](https://youtube.com/playlist?list=PL-g0fdC5RMboo-XNa2DzFvYg_9QWBIos6)(彭彭的課程，需加付費會員才可觀看)
 
 ## project
 - [碼錶計時器 Stopwatch；HTML, CSS, JavaScript](https://youtu.be/MHUfRYypvvk)
