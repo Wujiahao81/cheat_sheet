@@ -2,6 +2,8 @@
 
 ## know-how
 - [常用網頁設計中英文對照、英文網頁設計用詞](https://www.cadiis.com.tw/blog/website-nouns-table)
+- [MERN Stack + Tailwind CSS - React 小專案實踐計畫 系列](https://ithelp.ithome.com.tw/users/20152502/ironman/5738)
+
 
 ## html
 
@@ -21,3 +23,6 @@
 - [月曆 Calendar 使用HTML, CSS, JavaScript](https://youtu.be/_bTqiNUlSL0)
 - [Build Simple Calculator With JavaScript HTML CSS | JavaScript Project](https://youtu.be/HQCLzqhiT2w)
 - [React Responsive Admin Panel Tutorial | React Admin Dashboard Template Design | For Beginners](https://youtu.be/K7vHoUwClaM)
+- [MERN Stack Social Media App Tutorial | React Node.js full Course for Beginners](https://youtu.be/WWhgssiyfwY)
+- [Build React Admin Dashboard | Charts, Calendar, Tables and Kanban Trello board Todo App | UI](https://youtu.be/eRA9cVxFams)
+- [React Portfolio Website Tutorial - Build and Deploy React JS Personal Portfolio Website](https://youtu.be/Pu9I33nDeBk)
