@@ -2,6 +2,7 @@
 ## Job interview 面試
 - 巴哈大神整理[台灣軟體業業界現況詳解、軟體工程師指南](https://forum.gamer.com.tw/C.php?bsn=60076&snA=5444020)
 - [讓我拿到FAANG面試的履歷-Terry(HackBear泰瑞)](https://youtu.be/MsbzY6QbRVA)
+- [2022 年「資訊科技產業專案設計」課程-全台灣唯一教你準備資訊科技公司面試的正式大學課程 授課教師: 黃敬群(jserv)](https://hackmd.io/@sysprog/BJLSJ3ggi)
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [被問願不願意加班如何回答](work_overtime.md)
 - A way to answer questions - star [待編輯]
