@@ -11,6 +11,7 @@
 - [台大李宏毅線性代數OCW (2021)](https://speech.ee.ntu.edu.tw/~hylee/la/2021-fall.php)
 - [清大趙啟超線性代數OCW (2019)](https://www.youtube.com/playlist?list=PLS0SUwlYe8cwxscGGxCUqQ78_AMJHQJ5u)
 - [MIT OCW](https://www.youtube.com/playlist?list=PL4J3lLSgj0XZd7ERpoPdyZOwCMhBzrOfc)  (Gilbert Strang)
+- [Linear Algebra for Machine Learning and Data Science(Week1: System of linear equations: 2 variables)](https://hackmd.io/@shaoeChen/By_2oKR12)
 
 ### 專有名詞
 - [如何通俗理解矩阵左乘和右乘的区别？](https://www.zhihu.com/question/449981594)
