@@ -5,6 +5,7 @@
 - [MERN Stack + Tailwind CSS - React 小專案實踐計畫 系列](https://ithelp.ithome.com.tw/users/20152502/ironman/5738)
 - [Setting Up Flask MySQL Integration: 4 Easy Steps](https://hevodata.com/learn/flask-mysql/)
 - [Python Flask OpenCV 攝影機影像即時串流-ShengYu Talk](https://shengyu7697.github.io/python-flask-camera-streaming/)
+- [代码结构中Dao，Service，Controller，Util，Model是什么意思，为什么划分？](https://www.zhihu.com/question/58410621/answer/156868800)
 
 
 ## html
