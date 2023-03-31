@@ -13,6 +13,9 @@
 - [如何答好面試中的系統設計題(九章算數)](https://github.com/ninechapter-algorithm/linghu-algorithm-templete/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%20Syestem%20Design/%E5%A6%82%E4%BD%95%E7%AD%94%E5%A5%BD%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%A2%98.md)
 - [Google 副總裁(Vice President of Global Partnerships)：我在面試中，最想聽到求職者和我討論這 6 大話題](https://buzzorange.com/techorange/2021/03/15/google-vp-six-interview-topic/)
 - [全端工程師生存筆記](https://ithelp.ithome.com.tw/articles/10259659)
+- [九分鐘略懂系統設計面試](https://youtu.be/Y93BGebBwEE)
+
+
 ## 工作
 - [從「如果我離職…」的角度思考工作(Huli)](https://hulitw.medium.com/think-as-if-i-quit-f384091ca2f6)
 - [再也不怕聊天時沒話聊很尷尬](chat.md)
