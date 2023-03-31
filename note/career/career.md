@@ -27,6 +27,7 @@
 
 ## 提升職能
 - [如果你需要被鼓勵或是保持進步的動力可以看這](motivate.md)
+- [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
 - [提升英文能力](english.md)
 - [拯救資工系學生的基本素養系列影片](https://youtube.com/playlist?list=PLCOCSTovXmudP_dZi1T9lNHLOtqpK9e2P)
 - [資工系所助教教戰手冊—以陽明交大平行程式課為例](https://tigercosmos.xyz/post/2021/05/story/ta-of-parallel-programming-course/?fbclid=IwAR2cbFfqkK9qxjiaBiX7pXKM82PHYUiNiiGZc4HSwKy9N9mwVePuKWVBw9w)
