@@ -58,6 +58,7 @@
 - [CLOC (Count Lines of Code)](https://blog.miniasp.com/post/2009/08/24/Useful-tool-CLOC-Count-Lines-of-Code)(快速計算專案中的程式原始碼行數)
 - [Readme製作小工具](https://github.com/rahuldkjain/github-profile-readme-generator?fbclid=IwAR3a7G-Xdi6l4kCnaD2Nr7SIikuQFSfBGmNtOb0nBRPP0ua9Tp7q2RdGj6A)
 - [如何建立獨一無二的 GitHub Profile！與三個很酷的設計及應用 🚀](https://medium.com/starbugs/%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E7%8D%A8%E4%B8%80%E7%84%A1%E4%BA%8C%E7%9A%84-github-profile-%E8%88%87%E4%B8%89%E5%80%8B%E5%BE%88%E9%85%B7%E7%9A%84%E8%A8%AD%E8%A8%88%E5%8F%8A%E6%87%89%E7%94%A8-ef1cbb4b42c1)
+- [JavaScript Operator Lookup](https://www.joshwcomeau.com/operator-lookup/)
 
 ## 免責聲明
 內容皆為紀錄自己練習、學習過的內容或是網路上寫得很好的文章、影片之連結，僅供學習使用，不得商用，如有侵權請馬上聯繫我，我會立馬刪除該項目。  
