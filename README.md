@@ -55,7 +55,7 @@
 - [OBS-Open Broadcaster Software](https://obsproject.com/)(開源錄影軟體)
 - [VLC](https://www.videolan.org/vlc/index.zh_TW.html)(開源影片撥放器)
 - [envato elements](https://elements.envato.com/)(付費影片創作素材)
-- [CLOC ( 快速計算專案中的程式原始碼行數 )](https://blog.miniasp.com/post/2009/08/24/Useful-tool-CLOC-Count-Lines-of-Code)
+- [CLOC](https://blog.miniasp.com/post/2009/08/24/Useful-tool-CLOC-Count-Lines-of-Code)(快速計算專案中的程式原始碼行數)
 
 ## 免責聲明
 內容皆為紀錄自己練習、學習過的內容或是網路上寫得很好的文章、影片之連結，僅供學習使用，不得商用，如有侵權請馬上聯繫我，我會立馬刪除該項目。  
