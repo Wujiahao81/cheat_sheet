@@ -3,6 +3,7 @@
 ### 學習資源
 - [NTU Algorithm Design and Analysis (2021)](https://www.youtube.com/playlist?list=PLOAQYZPRn2V7lSunztJ4h0Sb0ejUA4Juq)
 - [中山大學資料結構-楊昌彪](https://par.cse.nsysu.edu.tw/~cbyang/course/ds/ds_index.htm)
+- [MIT 6.006 Introduction to Algorithms, Spring 2020](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [NTU 林軒田 data structure](https://www.youtube.com/playlist?list=PLXVfgk9fNX2Kda9rttSvGROCtRQ3Sb8bA)
 - [Geeksforgeeks](https://www.geeksforgeeks.org/)  
 - [MIT 6.006 midterm / final](https://courses.csail.mit.edu/6.006/oldquizzes/):可以讓功力指數起飛
