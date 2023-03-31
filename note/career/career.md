@@ -26,6 +26,7 @@
 ## 提升職能
 - [如果你需要被鼓勵或是保持進步的動力可以看這](motivate.md)
 - [提升英文能力](english.md)
+- [拯救資工系學生的基本素養系列影片](https://youtube.com/playlist?list=PLCOCSTovXmudP_dZi1T9lNHLOtqpK9e2P)
 - [新手如何做作品集或 side project？懶人包在這](https://ithelp.ithome.com.tw/articles/10242875)
 - [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 - [如何讓溝通、表達能力大躍進?](express.md) 
