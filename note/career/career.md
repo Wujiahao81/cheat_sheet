@@ -15,6 +15,7 @@
 - [全端工程師生存筆記](https://ithelp.ithome.com.tw/articles/10259659)
 - [十六分鐘略懂刷題面試：資料結構、演算法之概念與準備方向](https://youtu.be/sAjkAz75jis)
 - [九分鐘略懂系統設計面試](https://youtu.be/Y93BGebBwEE)
+- [系統設計面試6個技巧｜我面Google前的準備方法 - HackBear泰瑞](https://youtu.be/zomYKjlvJGU)
 
 
 ## 工作
