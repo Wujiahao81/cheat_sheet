@@ -9,7 +9,7 @@
 - [Git必懂指令](https://git-tutorial.readthedocs.io/zh/latest/commands.html)
 - [Git 還原](https://w3c.hexschool.com/git/1b44e53)
 - [【git教學 #1】15分鐘學會git & github（附實例）](https://youtu.be/Zd5jSDRjWfA)(走歪的工程師)
-- 
+- [拯救資工系學生的基本素養—Github 的 Pull Request 教學](https://youtu.be/MYVMeqj9spw)
 
 ### Step by step.
 - Create a repository on [Github](https://github.com).
