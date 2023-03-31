@@ -2,6 +2,7 @@
 
 ## know-how
 - [常用網頁設計中英文對照、英文網頁設計用詞](https://www.cadiis.com.tw/blog/website-nouns-table)
+- [來做個網路瀏覽器吧！](https://tigercosmos.xyz/post/2018/02/browser/browser_series_33/)(完整介紹網頁瀏覽器的原理)
 - [MERN Stack + Tailwind CSS - React 小專案實踐計畫 系列](https://ithelp.ithome.com.tw/users/20152502/ironman/5738)
 - [Setting Up Flask MySQL Integration: 4 Easy Steps](https://hevodata.com/learn/flask-mysql/)
 - [Python Flask OpenCV 攝影機影像即時串流-ShengYu Talk](https://shengyu7697.github.io/python-flask-camera-streaming/)
@@ -18,6 +19,7 @@
 
 ## javascript
 - [JavaScript ES6 與 React 前端開發：從入門到進階](https://youtube.com/playlist?list=PL-g0fdC5RMboo-XNa2DzFvYg_9QWBIos6)(彭彭的課程，需加付費會員才可觀看)
+- [30 天 Javascript 從入門到進階-@tigercosmos](https://tigercosmos.xyz/post/2018/11/master_js/table/)
 
 ## project
 - [碼錶計時器 Stopwatch；HTML, CSS, JavaScript](https://youtu.be/MHUfRYypvvk)
