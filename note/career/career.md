@@ -49,3 +49,4 @@
 - [這樣講話透露你的無知！5大步驟開啟第一印象！5大地雷千萬不要說！](https://youtu.be/1y7ZnuluFcg)
 - [軟體架構師的自我修養系列](https://ithelp.ithome.com.tw/users/20146414/ironman/5313)
 - [十一分鐘略懂電子電路：電、電路、電阻、電容、電感、二極體、三極體、MOSFET 簡介及相關應用](https://youtu.be/V3A0fxmhYrg)(淺顯易懂，看完就對電的概念有一定的了解)
+- [Lessons Learned Speaking at Conferences](https://www.joshwcomeau.com/career/lessons-learned-speaking-at-conferences/)
