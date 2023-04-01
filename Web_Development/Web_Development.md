@@ -7,6 +7,7 @@
 - [Setting Up Flask MySQL Integration: 4 Easy Steps](https://hevodata.com/learn/flask-mysql/)
 - [Python Flask OpenCV 攝影機影像即時串流-ShengYu Talk](https://shengyu7697.github.io/python-flask-camera-streaming/)
 - [代码结构中Dao，Service，Controller，Util，Model是什么意思，为什么划分？](https://www.zhihu.com/question/58410621/answer/156868800)
+- [Scroll reveal. You Must-Have This Effect on Your Website](https://youtu.be/av_p3PvrPxQ)
 
 
 ## html
@@ -33,3 +34,4 @@
 - [Build React Admin Dashboard | Charts, Calendar, Tables and Kanban Trello board Todo App | UI](https://youtu.be/eRA9cVxFams)
 - [React Portfolio Website Tutorial - Build and Deploy React JS Personal Portfolio Website](https://youtu.be/Pu9I33nDeBk)
 - [Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial](https://youtu.be/0fYi8SGA20k)
+- [How to Create Personal Blog Website Using HTML CSS JavaScript](https://youtu.be/Pup-yi4oMfU)
