@@ -8,3 +8,4 @@
 - [【javascript】3小時初學者教學 我阿嬤都會](https://youtu.be/yZwlW5INhgk)
 - [想要再從基礎開始，有系統的了解 JavaScript 的人，可以下載這本教科書 Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
 - [徹底搞懂Javascript閉包(Closure)，柯里化(Curry)，手寫代碼！](https://www.readfog.com/a/1631928679665864704?fbclid=IwAR3I-SgcQdqdbL1o7rJOv7PBygvc4tcUv5faoVGn3_WOPWl4za0tC7bgjcA)
+- [Statements Vs. Expressions](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)
