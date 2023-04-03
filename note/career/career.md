@@ -26,6 +26,7 @@
 - [給全端工程師的職涯生存筆記](https://github.com/dean9703111/full-stack-developer-note)
 - [(知乎)如何畫架構圖](https://www.zhihu.com/question/27440059/answer/2797076698)
 - [Finding your first remote job](https://www.joshwcomeau.com/career/remote-work-pt2/)
+- [為什麼經常查看手機會嚴重影響你的工作表現？Dr Lynn Gribble （中英字幕）](https://youtu.be/cOTnfxiVlxU)
 
 ## 提升職能
 - [如果你需要被鼓勵或是保持進步的動力可以看這](motivate.md)
