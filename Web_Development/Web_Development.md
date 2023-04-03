@@ -23,6 +23,7 @@
 ## javascript
 - [JavaScript ES6 與 React 前端開發：從入門到進階](https://youtube.com/playlist?list=PL-g0fdC5RMboo-XNa2DzFvYg_9QWBIos6)(彭彭的課程，需加付費會員才可觀看)
 - [30 天 Javascript 從入門到進階-@tigercosmos](https://tigercosmos.xyz/post/2018/11/master_js/table/)
+- [React JS Full Course 2022 | Build an App and Master React in 1 Hour](https://youtu.be/b9eMGE7QtTk)
 
 ## project
 - [碼錶計時器 Stopwatch；HTML, CSS, JavaScript](https://youtu.be/MHUfRYypvvk)
@@ -36,3 +37,4 @@
 - [React Portfolio Website Tutorial - Build and Deploy React JS Personal Portfolio Website](https://youtu.be/Pu9I33nDeBk)
 - [Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial](https://youtu.be/0fYi8SGA20k)
 - [How to Create Personal Blog Website Using HTML CSS JavaScript](https://youtu.be/Pup-yi4oMfU)
+- [Modern React Web Development Full Course - 12 Hours | 4 Real Industry Web Applications](https://youtu.be/XxXyfkrP298)
