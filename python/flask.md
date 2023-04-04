@@ -23,3 +23,5 @@ Flask 是一個非常輕量的Python Web框架，它僅保留了Web框架的核�
 原始文檔:[PEP 3333 -- Python Web Server Gateway Interface v1.0.1](https://peps.python.org/pep-3333/)
 - [客製化WSGI的middleware](https://ithelp.ithome.com.tw/articles/10201217)
 - [《Flask Web 开发实战》虚拟环境/依赖/Pipenv 等问题解决方法](https://zhuanlan.zhihu.com/p/124937023)
+- [Flask 檔案上傳到伺服器的方法 (1)](https://medium.com/@charming_rust_oyster_221/flask-%E6%AA%94%E6%A1%88%E4%B8%8A%E5%82%B3%E5%88%B0%E4%BC%BA%E6%9C%8D%E5%99%A8%E7%9A%84%E6%96%B9%E6%B3%95-1-c11097c23137)
+- [使用Python Flask建置影像圖檔上傳網站服務（二）](https://swf.com.tw/?p=1730)
