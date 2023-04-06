@@ -4,7 +4,6 @@
 - [常用網頁設計中英文對照、英文網頁設計用詞](https://www.cadiis.com.tw/blog/website-nouns-table)
 - [來做個網路瀏覽器吧！](https://tigercosmos.xyz/post/2018/02/browser/browser_series_33/)(完整介紹網頁瀏覽器的原理@tigercosmos)
 - [MERN Stack + Tailwind CSS - React 小專案實踐計畫 系列](https://ithelp.ithome.com.tw/users/20152502/ironman/5738)
-- [Setting Up Flask MySQL Integration: 4 Easy Steps](https://hevodata.com/learn/flask-mysql/)
 - [Python Flask OpenCV 攝影機影像即時串流-ShengYu Talk](https://shengyu7697.github.io/python-flask-camera-streaming/)
 - [代码结构中Dao，Service，Controller，Util，Model是什么意思，为什么划分？](https://www.zhihu.com/question/58410621/answer/156868800)
 - [Scroll reveal. You Must-Have This Effect on Your Website](https://youtu.be/av_p3PvrPxQ)
