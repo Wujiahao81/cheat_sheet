@@ -28,3 +28,4 @@
 - [每位程式開發者都該有的記憶體知識](https://sysprog21.github.io/cpumemory-zhtw/)
 - [並行程式設計: 概念](https://hackmd.io/@sysprog/concurrency-concepts)作者:jserv
 - [Semaphore、Mutex的同步(iThome鐵人賽:從零開始土炮MQ系列 第 7 篇)](https://ithelp.ithome.com.tw/articles/10219642)
+- [out of memory 記憶體不足，但還有很多空閒記憶體](https://ithelp.ithome.com.tw/questions/10212614?sc=nl.daily)(工作管理員 (Task Manager) 裡面看到的只有 Private Working Set (私有工作集))
