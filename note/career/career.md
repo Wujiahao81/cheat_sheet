@@ -18,6 +18,7 @@
 - [十六分鐘略懂刷題面試：資料結構、演算法之概念與準備方向](https://youtu.be/sAjkAz75jis)
 - [九分鐘略懂系統設計面試](https://youtu.be/Y93BGebBwEE)
 - [系統設計面試6個技巧｜我面Google前的準備方法 - HackBear泰瑞](https://youtu.be/zomYKjlvJGU)
+- [[心得] 2021 外商資料科學求職心得](https://www.ptt.cc/bbs/Soft_Job/M.1646066584.A.403.html)(刷leetcode建議)
 
 
 ## 工作
