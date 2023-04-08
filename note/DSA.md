@@ -29,6 +29,11 @@
 - [一次看懂遞迴 (Recursion) 的思維模式（四）](https://medium.com/appworks-school/%E9%80%B2%E5%85%A5%E9%81%9E%E8%BF%B4-recursion-%E7%9A%84%E4%B8%96%E7%95%8C-%E5%9B%9B-27d86b9fbd1d)
 - [一次看懂遞迴 (Recursion) 的思維模式（五）](https://medium.com/appworks-school/%E9%80%B2%E5%85%A5%E9%81%9E%E8%BF%B4-recursion-%E7%9A%84%E4%B8%96%E7%95%8C-%E4%BA%94-b678adad95ca)
 - [二分搜尋法（Binary Search）完整教學（一）](https://medium.com/appworks-school/binary-search-%E9%82%A3%E4%BA%9B%E8%97%8F%E5%9C%A8%E7%B4%B0%E7%AF%80%E8%A3%A1%E7%9A%84%E9%AD%94%E9%AC%BC-%E4%B8%80-%E5%9F%BA%E7%A4%8E%E4%BB%8B%E7%B4%B9-dd2cd804aee1)
+- [看完这篇还不懂链表(linklist)你来打我](https://mp.weixin.qq.com/s/iHk20PBBxlcuN_F6gNdPAg)
+- [彻底理解动态规划1：最长公共超序列](https://mp.weixin.qq.com/s/3LzuUduVYouQ1jLWD2LAVA)
+- [彻底理解动态规划2：赚最多钱的兼职](https://mp.weixin.qq.com/s?__biz=Mzg4OTYzODM4Mw==&mid=2247487676&idx=1&sn=d201e9fdf076ca9fcbde0561286665cc&chksm=cfe98c3cf89e052a7383ed2efa82512df4e457fef353b55dcbc051c3090a11450a498d7aeed0&scene=178&cur_album_id=2728729931651858436#rd)
+- [彻底理解动态规划3：编辑距离](https://mp.weixin.qq.com/s?__biz=Mzg4OTYzODM4Mw==&mid=2247487687&idx=1&sn=0cfa1de79023bde237d283567eeffd2e&chksm=cfe98c47f89e055122ab1c9a17e4ad52ff1d825cec36cbb2e103a907f6015e30b6f7b97209af&scene=178&cur_album_id=2728729931651858436#rd)
+- 
 
 ### 應用
 - [待編輯]
