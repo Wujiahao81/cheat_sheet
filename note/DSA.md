@@ -5,9 +5,11 @@
 - [中山大學資料結構-楊昌彪](https://par.cse.nsysu.edu.tw/~cbyang/course/ds/ds_index.htm)
 - [MIT 6.006 Introduction to Algorithms, Spring 2020](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [NTU 林軒田 data structure](https://www.youtube.com/playlist?list=PLXVfgk9fNX2Kda9rttSvGROCtRQ3Sb8bA)
+- [台大蔡欣穆教授講義](https://www.csie.ntu.edu.tw/~hsinmu/courses/dsa_17spring)
 - [Geeksforgeeks](https://www.geeksforgeeks.org/)  
 - [MIT 6.006 midterm / final](https://courses.csail.mit.edu/6.006/oldquizzes/):可以讓功力指數起飛
 - [CLRS Solutions](https://walkccc.github.io/CLRS/)
+- [Solutions to CLRS.](https://github.com/JasonQSY/CLRS-1)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [neetcode](https://neetcode.io/)是一個google員工在準備面試時，整理好的150題leetcode，難度由簡單到難，並包含所有題型。
 - [對數律怎麼用？其實規則很簡單｜#數學3乘3 ｜曉戴數學｜高中指數與對數](https://youtu.be/ryFuZ6Tny1o)
