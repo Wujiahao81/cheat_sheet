@@ -19,6 +19,8 @@
 - [Abdul Bari 印度老師演算法系列](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)(他有把各個資料結構／演算法的影片分得很詳細，由
 淺至深都講得很清楚，而且也會在白板上解釋原理)
 - [Data Structures and Algorithms](https://youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)(前Google工程師教學，口音清晰)
+- [An Easy-To-Use Guide to Big-O Time Complexity](https://medium.com/@ariel.salem1989/an-easy-to-use-guide-to-big-o-time-complexity-5dcf4be8a444)
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 
 ### 專有名詞
 - [從找衣服了解時間複雜度（Time Complexity）](https://pjchender.blogspot.com/2021/05/time-complexity.html)
