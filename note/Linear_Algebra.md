@@ -6,6 +6,7 @@
 ### 教學資源
 - 先備知識-[交大莊重微積分OCW (103學年度)](https://www.youtube.com/playlist?list=PLj6E8qlqmkFtwDlDoBnbyhCfAa7JL52OG)
 - 數學真的爛到不行的話也可以來這惡補[張翔老師基礎數學](https://shiangsir.wixsite.com/shiangsir/tutorialmath)
+- [微分的運算法則：乘法律、除法律、連鎖律](https://home.gamer.com.tw/creationDetail.php?sn=4950044)
 - [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&t=1s) (3Blue1Brown) 
 - [線代啟示錄](https://ccjou.wordpress.com/)
 - [台大李宏毅線性代數OCW (2021)](https://speech.ee.ntu.edu.tw/~hylee/la/2021-fall.php)
