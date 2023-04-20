@@ -20,12 +20,12 @@
 淺至深都講得很清楚，而且也會在白板上解釋原理)
 - [Data Structures and Algorithms](https://youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)(前Google工程師教學，口音清晰)
 - [An Easy-To-Use Guide to Big-O Time Complexity](https://medium.com/@ariel.salem1989/an-easy-to-use-guide-to-big-o-time-complexity-5dcf4be8a444)
-- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [演算法筆記](https://web.ntnu.edu.tw/~algo/)
 
 ### 專有名詞
 - [從找衣服了解時間複雜度（Time Complexity）](https://pjchender.blogspot.com/2021/05/time-complexity.html)
 - [初學者學演算法｜從時間複雜度認識常見演算法](https://medium.com/appworks-school/%E5%88%9D%E5%AD%B8%E8%80%85%E5%AD%B8%E6%BC%94%E7%AE%97%E6%B3%95-%E5%BE%9E%E6%99%82%E9%96%93%E8%A4%87%E9%9B%9C%E5%BA%A6%E8%AA%8D%E8%AD%98%E5%B8%B8%E8%A6%8B%E6%BC%94%E7%AE%97%E6%B3%95-%E4%B8%80-b46fece65ba5)
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [Asymptotic Notation(漸進符號)](http://alrightchiu.github.io/SecondRound/complexityasymptotic-notationjian-jin-fu-hao.html#com)
 - [一次看懂遞迴 (Recursion) 的思維模式（一）](https://medium.com/appworks-school/%E9%80%B2%E5%85%A5%E9%81%9E%E8%BF%B4-recursion-%E7%9A%84%E4%B8%96%E7%95%8C-%E4%B8%80-59fa4b394ef6)
 - [一次看懂遞迴 (Recursion) 的思維模式（二）](https://medium.com/appworks-school/%E9%80%B2%E5%85%A5%E9%81%9E%E8%BF%B4-recursion-%E7%9A%84%E4%B8%96%E7%95%8C-%E4%BA%8C-58196a45a945)
