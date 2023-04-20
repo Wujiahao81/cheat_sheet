@@ -29,6 +29,7 @@
 - [Finding your first remote job](https://www.joshwcomeau.com/career/remote-work-pt2/)
 - [為什麼經常查看手機會嚴重影響你的工作表現？Dr Lynn Gribble （中英字幕）](https://youtu.be/cOTnfxiVlxU)
 - [5 Debugging Tips Every Developer Should Know](https://youtu.be/K6WGRBhacq8)
+- [每次都找不到我要的文件，資安規範文件到底要怎麼看？](https://ithelp.ithome.com.tw/users/20117445/ironman/3778)
 
 ## 提升職能
 - [如果你需要被鼓勵或是保持進步的動力可以看這](motivate.md)
