@@ -40,7 +40,8 @@
 - [彻底理解动态规划1：最长公共超序列](https://mp.weixin.qq.com/s/3LzuUduVYouQ1jLWD2LAVA)
 - [彻底理解动态规划2：赚最多钱的兼职](https://mp.weixin.qq.com/s?__biz=Mzg4OTYzODM4Mw==&mid=2247487676&idx=1&sn=d201e9fdf076ca9fcbde0561286665cc&chksm=cfe98c3cf89e052a7383ed2efa82512df4e457fef353b55dcbc051c3090a11450a498d7aeed0&scene=178&cur_album_id=2728729931651858436#rd)
 - [彻底理解动态规划3：编辑距离](https://mp.weixin.qq.com/s?__biz=Mzg4OTYzODM4Mw==&mid=2247487687&idx=1&sn=0cfa1de79023bde237d283567eeffd2e&chksm=cfe98c47f89e055122ab1c9a17e4ad52ff1d825cec36cbb2e103a907f6015e30b6f7b97209af&scene=178&cur_album_id=2728729931651858436#rd)
-- 
+- [非對稱式加密演算法 - RSA (觀念篇)](https://ithelp.ithome.com.tw/articles/10250721)
+- [銀行密碼系統安全嗎？質數（素數）到底有啥用？李永樂老師11分鐘講RSA加密算法](https://youtu.be/D_kMadCtKp8)
 
 ### 應用
 - [待編輯]
