@@ -35,6 +35,7 @@
 - [二分搜尋法（Binary Search）完整教學（一）](https://medium.com/appworks-school/binary-search-%E9%82%A3%E4%BA%9B%E8%97%8F%E5%9C%A8%E7%B4%B0%E7%AF%80%E8%A3%A1%E7%9A%84%E9%AD%94%E9%AC%BC-%E4%B8%80-%E5%9F%BA%E7%A4%8E%E4%BB%8B%E7%B4%B9-dd2cd804aee1)
 - [看完这篇还不懂链表(linklist)你来打我](https://mp.weixin.qq.com/s/iHk20PBBxlcuN_F6gNdPAg)
 - [Dynamic Programming Tutorial Series](https://youtube.com/playlist?list=PLBZBJbE_rGRU5PrgZ9NBHJwcaZsNpf8yD)
+- [DP终极学习方案-花花醬](https://youtube.com/playlist?list=PLLuMmzMTgVK6krji67w8tEAAud71nQQFe)
 - [動態規劃十問十答](https://github.com/ninechapter-algorithm/linghu-algorithm-templete/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E5%8D%81%E9%97%AE%E5%8D%81%E7%AD%94.md)
 - [彻底理解动态规划1：最长公共超序列](https://mp.weixin.qq.com/s/3LzuUduVYouQ1jLWD2LAVA)
 - [彻底理解动态规划2：赚最多钱的兼职](https://mp.weixin.qq.com/s?__biz=Mzg4OTYzODM4Mw==&mid=2247487676&idx=1&sn=d201e9fdf076ca9fcbde0561286665cc&chksm=cfe98c3cf89e052a7383ed2efa82512df4e457fef353b55dcbc051c3090a11450a498d7aeed0&scene=178&cur_album_id=2728729931651858436#rd)
