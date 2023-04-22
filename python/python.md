@@ -29,6 +29,7 @@
 - [Python 項目的 .gitignore 模板](https://github.com/github/gitignore/blob/main/Python.gitignore)
 - [在 VS Code 使用 .gitignore 避免 pycache、venv 索引](https://pythonviz.com/git/gitignore-manage-git-indexing-in-vscode/)
 - [2023年03月ITSA 程式能力線上自我評量](itsa_2023_03.md)
+- [python里面的self，是谁啊？](https://zhuanlan.zhihu.com/p/95788606)
 
 ## side project
 - [Flask-membersystem(MongoDB)](https://github.com/daoxuewu/flask-membersystem)
