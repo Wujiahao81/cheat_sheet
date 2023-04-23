@@ -7,7 +7,7 @@
 - [2022 年「資訊科技產業專案設計」課程-全台灣唯一教你準備資訊科技公司面試的正式大學課程 授課教師: 黃敬群(jserv)](https://hackmd.io/@sysprog/BJLSJ3ggi)
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [被問願不願意加班如何回答](work_overtime.md)
-- A way to answer questions - star [待編輯]
+- A way to answer questions - [star](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
 - [薪資查詢平台levels.fyi](https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer)
 - [美國工作查詢薪水的4個網站](https://aillynotes.com/salary/)
 - [你問了嗎？那些你忘記問的面試問題](https://www.gvm.com.tw/article/43290)
@@ -19,6 +19,7 @@
 - [九分鐘略懂系統設計面試](https://youtu.be/Y93BGebBwEE)
 - [系統設計面試6個技巧｜我面Google前的準備方法 - HackBear泰瑞](https://youtu.be/zomYKjlvJGU)
 - [[心得] 2021 外商資料科學求職心得](https://www.ptt.cc/bbs/Soft_Job/M.1646066584.A.403.html)(刷leetcode建議)
+- [美國軟體工程師實習與正職求職心得](https://cwhu.medium.com/2021-us-swe-intern-2022-us-swe-new-grad-47d2a68dc59d)(內含如何請人內推幫忙、要怎麼說比較好、當兵時可以作啥)
 
 
 ## 工作
