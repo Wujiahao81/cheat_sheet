@@ -47,6 +47,7 @@
 - [【演算法】歐幾里得算法 Euclidean Algorithm](https://jason-chen-1992.weebly.com/home/-euclidean-algorithm)( 其實就是我們在 國/高 中學過的「輾轉相除法」)
 - [非對稱式加密演算法 - RSA (觀念篇)](https://ithelp.ithome.com.tw/articles/10250721)
 - [銀行密碼系統安全嗎？質數（素數）到底有啥用？李永樂老師11分鐘講RSA加密算法](https://youtu.be/D_kMadCtKp8)
+- [【演算法】資工人必下的一盤棋－八皇后 Eight Queens](https://jason-chen-1992.weebly.com/home/-eight-queens)
 
 ### 應用
 - [待編輯]
