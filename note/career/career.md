@@ -20,6 +20,7 @@
 - [系統設計面試6個技巧｜我面Google前的準備方法 - HackBear泰瑞](https://youtu.be/zomYKjlvJGU)
 - [[心得] 2021 外商資料科學求職心得](https://www.ptt.cc/bbs/Soft_Job/M.1646066584.A.403.html)(刷leetcode建議)
 - [美國軟體工程師實習與正職求職心得](https://cwhu.medium.com/2021-us-swe-intern-2022-us-swe-new-grad-47d2a68dc59d)(內含如何請人內推幫忙、要怎麼說比較好、當兵時可以作啥，還有履歷、面試、談薪水技巧、刷題動力和心態)
+- [技術總監需要有技術嗎？](https://medium.com/the-bayesian-trap/the-coding-interview-and-soft-skills-70dad398f3f1)(關於資深工程師晉升管理階層的一些想法和推薦書籍)
 
 
 ## 工作
