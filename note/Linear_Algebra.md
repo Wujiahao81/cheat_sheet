@@ -7,6 +7,8 @@
 - 先備知識-[交大莊重微積分OCW (103學年度)](https://www.youtube.com/playlist?list=PLj6E8qlqmkFtwDlDoBnbyhCfAa7JL52OG)
 - 數學真的爛到不行的話也可以來這惡補[張翔老師基礎數學](https://shiangsir.wixsite.com/shiangsir/tutorialmath)
 - [巴哈達人專欄:微分的運算法則：乘法律、除法律、連鎖律](https://home.gamer.com.tw/creationDetail.php?sn=4950044)
+- [高一下數學(第三章：機率)-呂冠緯](https://youtube.com/playlist?list=PLZruNYXiv2mBDfyK4iY3-6MTFCgF_XwiU)
+- [高一下數學(第二章：排列組合)-呂冠緯](https://youtube.com/playlist?list=PLZruNYXiv2mB2VTi8erx5p9p1Z5mQHkR6)
 - [因式分解技巧，看这一篇文章就够了！](https://www.zhihu.com/tardis/zm/art/449972206?source_id=1003)
 - [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&t=1s) (3Blue1Brown) 
 - [線代啟示錄](https://ccjou.wordpress.com/)
