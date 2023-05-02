@@ -61,7 +61,7 @@
 - [JavaScript Operator Lookup](https://www.joshwcomeau.com/operator-lookup/)
 - [WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)(產生動態流體的背景圖片)
 - [transparenttextures](https://www.transparenttextures.com/)(產生基礎紋理的背景圖片) 
-- [國家教育研究院|樂詞網](https://terms.naer.edu.tw/)(查一些專有名詞的翻譯時可以用)
+- [國家教育研究院|樂詞網](https://terms.naer.edu.tw/)(查一些專有名詞的中英文翻譯時可以用)
 
 ## 免責聲明
 內容皆為紀錄自己練習、學習過的內容或是網路上寫得很好的文章、影片之連結，僅供學習使用，不得商用，如有侵權請馬上聯繫我，我會立馬刪除該項目。  
