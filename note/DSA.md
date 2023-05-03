@@ -6,6 +6,7 @@
   - [NTU 林軒田 data structure](https://www.youtube.com/playlist?list=PLXVfgk9fNX2Kda9rttSvGROCtRQ3Sb8bA)
   - [台大蔡欣穆教授講義](https://www.csie.ntu.edu.tw/~hsinmu/courses/dsa_17spring)
   - [Data Structures and Algorithms](https://youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)(前Google工程師教學，口音清晰)
+  - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - **Algorithm**
   - [MIT 6.006 Introduction to Algorithms, Spring 2020](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
   - [NTU Algorithm Design and Analysis (2021)](https://www.youtube.com/playlist?list=PLOAQYZPRn2V7lSunztJ4h0Sb0ejUA4Juq)
@@ -17,7 +18,6 @@
 - **Algorithm Bible : CLRS**  
   - [CLRS Solutions](https://walkccc.github.io/CLRS/)
   - [Solutions to CLRS.](https://github.com/JasonQSY/CLRS-1)
-- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - **leetcode相關**
   - [neetcode](https://neetcode.io/)是一個google員工在準備面試時，整理好的150題leetcode，難度由簡單到難，並包含所有題型。
   - [演算法學習之-Leetcode-破關總指南（一）](https://medium.com/appworks-school/%E6%BC%94%E7%AE%97%E6%B3%95%E5%AD%B8%E7%BF%92%E4%B9%8B-leetcode-%E7%A0%B4%E9%97%9C%E7%B8%BD%E6%8C%87%E5%8D%97-%E4%B8%80-873b3fb65152)
