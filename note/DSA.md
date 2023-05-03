@@ -14,7 +14,7 @@
 淺至深都講得很清楚，而且也會在白板上解釋原理)
   - [演算法筆記](https://web.ntnu.edu.tw/~algo/)
   - [MIT 6.006 algorithm midterm / final](https://courses.csail.mit.edu/6.006/oldquizzes/):可以讓功力指數起飛
-- [Geeksforgeeks](https://www.geeksforgeeks.org/)
+- [Geeksforgeeks](https://www.geeksforgeeks.org/)(遇到各種資演的問題可以在這找答案)
 - **Algorithm Bible : CLRS(俗稱楓葉本)**  
   - [CLRS Solutions](https://walkccc.github.io/CLRS/)
   - [Solutions to CLRS.](https://github.com/JasonQSY/CLRS-1)
