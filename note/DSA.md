@@ -28,7 +28,7 @@
 - [OI wiki](https://oi-wiki.org/ds/)(中國選手的算法競賽 wiki 共筆，有不少寫得不錯的文章)
 
 ### 專有名詞
-- Time Complexity
+- **Time Complexity**
   - [從找衣服了解時間複雜度（Time Complexity）](https://pjchender.blogspot.com/2021/05/time-complexity.html)
   - [初學者學演算法｜從時間複雜度認識常見演算法](https://medium.com/appworks-school/%E5%88%9D%E5%AD%B8%E8%80%85%E5%AD%B8%E6%BC%94%E7%AE%97%E6%B3%95-%E5%BE%9E%E6%99%82%E9%96%93%E8%A4%87%E9%9B%9C%E5%BA%A6%E8%AA%8D%E8%AD%98%E5%B8%B8%E8%A6%8B%E6%BC%94%E7%AE%97%E6%B3%95-%E4%B8%80-b46fece65ba5)(淺顯易懂)
   - [An Easy-To-Use Guide to Big-O Time Complexity](https://medium.com/@ariel.salem1989/an-easy-to-use-guide-to-big-o-time-complexity-5dcf4be8a444)
@@ -36,6 +36,7 @@
   - [Asymptotic Notation(漸進符號)](http://alrightchiu.github.io/SecondRound/complexityasymptotic-notationjian-jin-fu-hao.html#com)
 - [對數律怎麼用？其實規則很簡單｜#數學3乘3 ｜曉戴數學｜高中指數與對數](https://youtu.be/ryFuZ6Tny1o)
 - [初學者學演算法｜排序法進階：合併排序法](https://medium.com/appworks-school/%E5%88%9D%E5%AD%B8%E8%80%85%E5%AD%B8%E6%BC%94%E7%AE%97%E6%B3%95-%E6%8E%92%E5%BA%8F%E6%B3%95%E9%80%B2%E9%9A%8E-%E5%90%88%E4%BD%B5%E6%8E%92%E5%BA%8F%E6%B3%95-6252651c6f7e)(Merge Sort)
+- [[資料結構]-二元樹走訪Binary Tree Traversal](https://ithelp.ithome.com.tw/articles/10271647)(DFS和BFS)
 - **Binary Search**
   - [[Python] Powerful Ultimate Binary Search Template. Solved many problems](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)(Binary Search)
   - [二分搜尋法（Binary Search）完整教學（一）](https://medium.com/appworks-school/binary-search-%E9%82%A3%E4%BA%9B%E8%97%8F%E5%9C%A8%E7%B4%B0%E7%AF%80%E8%A3%A1%E7%9A%84%E9%AD%94%E9%AC%BC-%E4%B8%80-%E5%9F%BA%E7%A4%8E%E4%BB%8B%E7%B4%B9-dd2cd804aee1)
