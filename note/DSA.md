@@ -24,7 +24,7 @@
   - [演算法學習之 Leetcode 破關總指南（二）](https://medium.com/appworks-school/%E6%BC%94%E7%AE%97%E6%B3%95%E5%AD%B8%E7%BF%92%E4%B9%8B-leetcode-%E7%A0%B4%E9%97%9C%E7%B8%BD%E6%8C%87%E5%8D%97-%E4%BA%8C-73a1216dbfef)
   - [演算法學習之 Leetcode 破關總指南（三）](https://medium.com/appworks-school/%E6%BC%94%E7%AE%97%E6%B3%95%E5%AD%B8%E7%BF%92%E4%B9%8B-leetcode-%E7%A0%B4%E9%97%9C%E7%B8%BD%E6%8C%87%E5%8D%97-%E4%B8%89-7f0958d176da)
 
-- [便宜的演算法比賽網路資源整理](https://hackmd.io/@pr3pony/HysEHoYe8)
+- [便宜的演算法比賽網路資源整理](https://hackmd.io/@pr3pony/HysEHoYe8)(作者:pr3pony)
 - [OI wiki](https://oi-wiki.org/ds/)(中國選手的算法競賽 wiki 共筆，有不少寫得不錯的文章)
 
 ### 專有名詞
