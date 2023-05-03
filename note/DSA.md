@@ -39,6 +39,7 @@
 - [看完这篇还不懂链表(linklist)你来打我](https://mp.weixin.qq.com/s/iHk20PBBxlcuN_F6gNdPAg)
 - [Dynamic Programming Tutorial Series-CS Dojo](https://youtube.com/playlist?list=PLBZBJbE_rGRU5PrgZ9NBHJwcaZsNpf8yD)
 - [The ART of Dynamic Programming - An Intuitive Approach: From Apprentice to Master](https://leetcode.com/discuss/general-discussion/712010/The-ART-of-Dynamic-Programming-An-Intuitive-Approach%3A-from-Apprentice-to-Master)
+- [LeetCode 上的基礎 DP 套路總結](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns)
 - [DP终极学习方案-花花醬](https://youtube.com/playlist?list=PLLuMmzMTgVK6krji67w8tEAAud71nQQFe)
 - [動態規劃十問十答](https://github.com/ninechapter-algorithm/linghu-algorithm-templete/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E5%8D%81%E9%97%AE%E5%8D%81%E7%AD%94.md)
 - [彻底理解动态规划1：最长公共超序列](https://mp.weixin.qq.com/s/3LzuUduVYouQ1jLWD2LAVA)
