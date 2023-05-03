@@ -21,6 +21,8 @@
 - [Data Structures and Algorithms](https://youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)(前Google工程師教學，口音清晰)
 - [An Easy-To-Use Guide to Big-O Time Complexity](https://medium.com/@ariel.salem1989/an-easy-to-use-guide-to-big-o-time-complexity-5dcf4be8a444)
 - [演算法筆記](https://web.ntnu.edu.tw/~algo/)
+- [便宜的演算法比賽網路資源整理](https://hackmd.io/@pr3pony/HysEHoYe8)
+- [OI wiki](https://oi-wiki.org/ds/)(中國選手的算法競賽 wiki 共筆，有不少寫得不錯的文章)
 
 ### 專有名詞
 - [從找衣服了解時間複雜度（Time Complexity）](https://pjchender.blogspot.com/2021/05/time-complexity.html)
