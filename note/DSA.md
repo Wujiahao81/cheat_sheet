@@ -15,7 +15,7 @@
   - [演算法筆記](https://web.ntnu.edu.tw/~algo/)
   - [MIT 6.006 algorithm midterm / final](https://courses.csail.mit.edu/6.006/oldquizzes/):可以讓功力指數起飛
 - [Geeksforgeeks](https://www.geeksforgeeks.org/)
-- **Algorithm Bible : CLRS**  
+- **Algorithm Bible : CLRS(俗稱楓葉本)**  
   - [CLRS Solutions](https://walkccc.github.io/CLRS/)
   - [Solutions to CLRS.](https://github.com/JasonQSY/CLRS-1)
 - **leetcode相關**
