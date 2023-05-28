@@ -32,6 +32,8 @@
 - [為什麼經常查看手機會嚴重影響你的工作表現？Dr Lynn Gribble （中英字幕）](https://youtu.be/cOTnfxiVlxU)
 - [5 Debugging Tips Every Developer Should Know](https://youtu.be/K6WGRBhacq8)
 - [每次都找不到我要的文件，資安規範文件到底要怎麼看？](https://ithelp.ithome.com.tw/users/20117445/ironman/3778)
+- [只需要2分鐘 ► 這個練習能瞬間提高你的專注力！- 聽聽史丹佛大學教授怎麼說 - Dr Andrew Huberman 安德魯．胡伯曼博士（中英字幕）](https://youtu.be/iBFFmK9onVA)
+- [只需要2分鐘 ► 這個簡單練習將有效改善你的視力！- 聽聽史丹佛大學教授怎麼說 - Dr Andrew Huberman 安德魯．休伯曼博士（中英字幕）](https://youtu.be/6LE1gf6FJnw)
 
 ## 提升職能
 - [如果你需要被鼓勵或是保持進步的動力可以看這](motivate.md)
