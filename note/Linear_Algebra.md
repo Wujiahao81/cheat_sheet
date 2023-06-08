@@ -13,6 +13,8 @@
 - [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&t=1s) (3Blue1Brown) 
 - [線代啟示錄](https://ccjou.wordpress.com/)
 - [台大李宏毅線性代數OCW (2021)](https://speech.ee.ntu.edu.tw/~hylee/la/2021-fall.php)
+- [交大莊重線性代數(一)](https://youtube.com/playlist?list=PLj6E8qlqmkFtjxknKFtdxc1_SxNBXgpbo)
+- [交大莊重線性代數(二)](https://youtube.com/playlist?list=PLj6E8qlqmkFsU6_lxu7soHGgI30IdpA7F)
 - [清大趙啟超線性代數OCW (2019)](https://www.youtube.com/playlist?list=PLS0SUwlYe8cwxscGGxCUqQ78_AMJHQJ5u)
 - [MIT OCW](https://www.youtube.com/playlist?list=PL4J3lLSgj0XZd7ERpoPdyZOwCMhBzrOfc)  (Gilbert Strang)
 - [Linear Algebra for Machine Learning and Data Science(Week1: System of linear equations: 2 variables)](https://hackmd.io/@shaoeChen/By_2oKR12)
