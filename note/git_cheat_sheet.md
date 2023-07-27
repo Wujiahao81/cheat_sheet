@@ -10,6 +10,9 @@
 - [Git 還原](https://w3c.hexschool.com/git/1b44e53)
 - [【git教學 #1】15分鐘學會git & github（附實例）](https://youtu.be/Zd5jSDRjWfA)(走歪的工程師)
 - [拯救資工系學生的基本素養—Github 的 Pull Request 教學](https://youtu.be/MYVMeqj9spw)
+- [Learn-Git-in-30-days](https://github.com/doggy8088/Learn-Git-in-30-days)
+- [git commit message怎麼寫?](https://chi_gitbook.gitbooks.io/personal-note/content/xue_xi_zi_yuan.html)[Jim Huang / 2015年嵌入式系統課程]
+- **GitBook**教學: [深入淺出 GitBook 寫作與自助出版，電子書也能多人協作](https://www.codedata.com.tw/social-coding/gitbook-self-publishing/)
 
 ### Step by step.
 - Create a repository on [Github](https://github.com).
