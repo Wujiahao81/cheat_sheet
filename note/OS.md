@@ -31,3 +31,4 @@
 - [Semaphore、Mutex的同步(iThome鐵人賽:從零開始土炮MQ系列 第 7 篇)](https://ithelp.ithome.com.tw/articles/10219642)
 - [out of memory 記憶體不足，但還有很多空閒記憶體](https://ithelp.ithome.com.tw/questions/10212614?sc=nl.daily)(工作管理員 (Task Manager) 裡面看到的只有 Private Working Set (私有工作集))
 - [作業系統重要觀念整理(中央處理器的作業方式、處理程式的方式)](https://www.3people.com.tw/%E7%9F%A5%E8%AD%98/%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1%E9%87%8D%E8%A6%81%E8%A7%80%E5%BF%B5%E6%95%B4%E7%90%86/%E5%B0%B1%E6%A5%AD%E8%80%83%E8%A9%A6-%E5%8F%B0%E5%8C%97%E6%8D%B7%E9%81%8B%E5%85%AC%E5%8F%B8/7bba5ae8-a97a-460b-a1c2-98887c618302)
+- [怎样理解阻塞非阻塞与同步异步的区别？- 知乎](https://www.zhihu.com/question/19732473/answer/241673170)
