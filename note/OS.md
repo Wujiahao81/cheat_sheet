@@ -1,6 +1,7 @@
 # Operating Systems
 
 ### 教學資源
+- [自己準備考研時做的筆記](https://daoxue-wu.notion.site/69e052e59c0948bfb4e5faf75d8814d2?pvs=4)
 - 清大周志遠[課程錄影](https://www.youtube.com/playlist?list=PLS0SUwlYe8czigQPzgJTH2rJtwm0LXvDX)、[講義連結](https://ocw.nthu.edu.tw/ocw/index.php?page=course_news_content&cid=141&id=999)
 - Hackmd[OS筆記(CH0~CH13)](https://hackmd.io/@Pl-eQT9CQaS0jhExKqL8_w/BkhOSR4jW/https%3A%2F%2Fhackmd.io%2Fs%2FS14A_CVjW)整理者:陳品媛(可配合周志遠ocw看)
 - [台大王凡Operating Systems](http://cc.ee.ntu.edu.tw/~farn/courses/OS/OS2022/index.htm)
@@ -21,6 +22,7 @@
   - [Ch12 : Mass Storage System](https://hackmd.io/@Chang-Chia-Chi/OS-CH12)
 
 - Hackmd找到的[OS筆記(CH1~CH9))](https://hackmd.io/@Zero871015/OS-Note)作者:@Zero871015
+- [MeteorV's Blog OS考研整理筆記目錄](https://meteorv.dev/OS/OS/)(這篇參考mage大及周志遠老師OCW)
 
 
 ## 筆記
