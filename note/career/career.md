@@ -35,6 +35,7 @@
 - [只需要2分鐘 ► 這個練習能瞬間提高你的專注力！- 聽聽史丹佛大學教授怎麼說 - Dr Andrew Huberman 安德魯．胡伯曼博士（中英字幕）](https://youtu.be/iBFFmK9onVA)
 - [只需要2分鐘 ► 這個簡單練習將有效改善你的視力！- 聽聽史丹佛大學教授怎麼說 - Dr Andrew Huberman 安德魯．休伯曼博士（中英字幕）](https://youtu.be/6LE1gf6FJnw)
 - [FBI傳授談判技巧：成功要求加薪、殺價談判中需佔上風！Former FBI Agent Explains How to Negotiate｜科普長知識｜GQ Taiwan](https://youtu.be/xM5DXBSNMJg)
+- [怕聊天沒話聊很尷尬？教你 5 種找話題的方法 (How To Never Run Out Of Things To Say In Conversation)](https://tw.voicetube.com/videos/61241)
 
 ## 提升職能
 - [如果你需要被鼓勵或是保持進步的動力可以看這](motivate.md)
