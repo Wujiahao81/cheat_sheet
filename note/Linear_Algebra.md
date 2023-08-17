@@ -11,7 +11,7 @@
 - [高一下數學(第二章：排列組合)-呂冠緯](https://youtube.com/playlist?list=PLZruNYXiv2mB2VTi8erx5p9p1Z5mQHkR6)
 - [因式分解技巧，看这一篇文章就够了！](https://www.zhihu.com/tardis/zm/art/449972206?source_id=1003)
 - [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&t=1s) (3Blue1Brown) 
-- [線代啟示錄](https://ccjou.wordpress.com/)
+- [線代啟示錄](https://ccjou.wordpress.com/%e9%96%b1%e8%ae%80%e5%b0%8e%e5%bc%95/%e7%b7%9a%e6%80%a7%e4%bb%a3%e6%95%b8%e6%95%99%e5%ad%b8%e5%85%89%e7%a2%9f%e5%bb%b6%e4%bc%b8%e9%96%b1%e8%ae%80/)
 - [台大李宏毅線性代數OCW (2021)](https://speech.ee.ntu.edu.tw/~hylee/la/2021-fall.php)
 - [交大莊重線性代數(一)](https://youtube.com/playlist?list=PLj6E8qlqmkFtjxknKFtdxc1_SxNBXgpbo)
 - [交大莊重線性代數(二)](https://youtube.com/playlist?list=PLj6E8qlqmkFsU6_lxu7soHGgI30IdpA7F)
