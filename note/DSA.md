@@ -20,6 +20,7 @@
   - [Solutions to CLRS.](https://github.com/JasonQSY/CLRS-1)
 - **leetcode相關**
   - [neetcode](https://neetcode.io/)是一個google員工在準備面試時，整理好的150題leetcode，難度由簡單到難，並包含所有題型。
+  - [My Brain after 569 Leetcode Problems](https://youtu.be/8wysIxzqgPI?si=__8qH8TGRjjeauL7)
   - [演算法學習之-Leetcode-破關總指南（一）](https://medium.com/appworks-school/%E6%BC%94%E7%AE%97%E6%B3%95%E5%AD%B8%E7%BF%92%E4%B9%8B-leetcode-%E7%A0%B4%E9%97%9C%E7%B8%BD%E6%8C%87%E5%8D%97-%E4%B8%80-873b3fb65152)
   - [演算法學習之 Leetcode 破關總指南（二）](https://medium.com/appworks-school/%E6%BC%94%E7%AE%97%E6%B3%95%E5%AD%B8%E7%BF%92%E4%B9%8B-leetcode-%E7%A0%B4%E9%97%9C%E7%B8%BD%E6%8C%87%E5%8D%97-%E4%BA%8C-73a1216dbfef)
   - [演算法學習之 Leetcode 破關總指南（三）](https://medium.com/appworks-school/%E6%BC%94%E7%AE%97%E6%B3%95%E5%AD%B8%E7%BF%92%E4%B9%8B-leetcode-%E7%A0%B4%E9%97%9C%E7%B8%BD%E6%8C%87%E5%8D%97-%E4%B8%89-7f0958d176da)
