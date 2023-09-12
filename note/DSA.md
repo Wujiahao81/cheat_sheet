@@ -29,6 +29,8 @@
 - [OI wiki](https://oi-wiki.org/ds/)(中國選手的算法競賽 wiki 共筆，有不少寫得不錯的文章)
 
 ### 專有名詞
+- **data stucture**
+  - [資料結構的佇列(Queues)](http://wayne.cif.takming.edu.tw/datastru/queue.pdf)
 - **Time Complexity**
   - [從找衣服了解時間複雜度（Time Complexity）](https://pjchender.blogspot.com/2021/05/time-complexity.html)
   - [初學者學演算法｜從時間複雜度認識常見演算法](https://medium.com/appworks-school/%E5%88%9D%E5%AD%B8%E8%80%85%E5%AD%B8%E6%BC%94%E7%AE%97%E6%B3%95-%E5%BE%9E%E6%99%82%E9%96%93%E8%A4%87%E9%9B%9C%E5%BA%A6%E8%AA%8D%E8%AD%98%E5%B8%B8%E8%A6%8B%E6%BC%94%E7%AE%97%E6%B3%95-%E4%B8%80-b46fece65ba5)(淺顯易懂)
