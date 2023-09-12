@@ -64,3 +64,4 @@
 - [軟體架構師的自我修養系列](https://ithelp.ithome.com.tw/users/20146414/ironman/5313)
 - [十一分鐘略懂電子電路：電、電路、電阻、電容、電感、二極體、三極體、MOSFET 簡介及相關應用](https://youtu.be/V3A0fxmhYrg)(淺顯易懂，看完就對電的概念有一定的了解)
 - [Lessons Learned Speaking at Conferences](https://www.joshwcomeau.com/career/lessons-learned-speaking-at-conferences/)
+- [資工系的另一個選擇『專案管理PM』](https://youtu.be/GRx9u5JpDuI?si=nW7I-VXwaL85t8RH)
