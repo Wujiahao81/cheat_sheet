@@ -21,6 +21,7 @@
 - [[心得] 2021 外商資料科學求職心得](https://www.ptt.cc/bbs/Soft_Job/M.1646066584.A.403.html)(刷leetcode建議)
 - [美國軟體工程師實習與正職求職心得](https://cwhu.medium.com/2021-us-swe-intern-2022-us-swe-new-grad-47d2a68dc59d)(內含如何請人內推幫忙、要怎麼說比較好、當兵時可以作啥，還有履歷、面試、談薪水技巧、刷題動力和心態)
 - [技術總監需要有技術嗎？](https://medium.com/the-bayesian-trap/the-coding-interview-and-soft-skills-70dad398f3f1)(關於資深工程師晉升管理階層的一些想法和推薦書籍)
+- [年薪百萬是假的？！ 工程師不是只有你知道的那一種 I Jerry ON Code 傑瑞叔叔](https://youtu.be/amdADRWVvPg?si=nW_J4GCkrzFxNwxY)
 
 
 ## 工作
