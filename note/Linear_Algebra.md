@@ -13,6 +13,7 @@
 - [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&t=1s) (3Blue1Brown) 
 - [線代啟示錄](https://ccjou.wordpress.com/%e9%96%b1%e8%ae%80%e5%b0%8e%e5%bc%95/%e7%b7%9a%e6%80%a7%e4%bb%a3%e6%95%b8%e6%95%99%e5%ad%b8%e5%85%89%e7%a2%9f%e5%bb%b6%e4%bc%b8%e9%96%b1%e8%ae%80/)
 - [台大李宏毅線性代數OCW (2021)](https://speech.ee.ntu.edu.tw/~hylee/la/2021-fall.php)
+- [李宏毅線代筆記](https://hackmd.io/@shaoeChen/SJAKcrQYr/https%3A%2F%2Fhackmd.io%2F%40shaoeChen%2FrJd6d7Y1P)
 - [交大莊重線性代數(一)](https://youtube.com/playlist?list=PLj6E8qlqmkFtjxknKFtdxc1_SxNBXgpbo)
 - [交大莊重線性代數(二)](https://youtube.com/playlist?list=PLj6E8qlqmkFsU6_lxu7soHGgI30IdpA7F)
 - [清大趙啟超線性代數OCW (2019)](https://www.youtube.com/playlist?list=PLS0SUwlYe8cwxscGGxCUqQ78_AMJHQJ5u)
