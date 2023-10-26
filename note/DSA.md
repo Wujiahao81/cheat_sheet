@@ -9,7 +9,8 @@
   - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - **Algorithm**
   - [MIT 6.006 Introduction to Algorithms, Spring 2020](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
-  - [NTU Algorithm Design and Analysis (2021)](https://www.youtube.com/playlist?list=PLOAQYZPRn2V7lSunztJ4h0Sb0ejUA4Juq)
+  - [NTU Algorithm Design and Analysis (陈蕴侬ADA2019)](https://www.bilibili.com/video/BV1ct4y1X7FC/?spm_id_from=333.337.search-card.all.click&vd_source=f98403e008c3605faef7efe4a0658ae6)
+  - [陈蕴侬 ADA ppt](https://www.csie.ntu.edu.tw/~yvchen/f107-ada/)
   - [Abdul Bari 印度老師演算法系列](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)(他有把各個資料結構／演算法的影片分得很詳細，由
 淺至深都講得很清楚，而且也會在白板上解釋原理)
   - [演算法筆記](https://web.ntnu.edu.tw/~algo/)
