@@ -29,6 +29,7 @@
 - [OI wiki](https://oi-wiki.org/ds/)(中國選手的算法競賽 wiki 共筆，有不少寫得不錯的文章)
 
 ### 專有名詞
+- [指標(pointer)](https://youtu.be/mR819vRmULI?si=NY8_XLLgABS74emf)
 - **data stucture**
   - [資料結構的佇列(Queues)](http://wayne.cif.takming.edu.tw/datastru/queue.pdf)
 - **Time Complexity**
