@@ -7,3 +7,4 @@
 - [台大李根逸 C 語言入門](https://feis.studio/#/c) (最完整且循序漸進的 C 語言線上中文課程)
 - [「你所不知道的 C 語言」系列講座](https://hackmd.io/@sysprog/c-programming)
 - [「Linux 核心設計」系列講座](https://hackmd.io/@sysprog/linux-kernel-internal)
+- [由片語學C程式設計](https://books.google.com.tw/books/about/%E7%94%B1%E7%89%87%E8%AA%9E%E5%AD%B8%E7%BF%92C%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88_%E7%AC%AC%E4%BA%8C%E7%89%88.html?id=YjhCzQEACAAJ&redir_esc=y) (台大劉邦鋒教授)
