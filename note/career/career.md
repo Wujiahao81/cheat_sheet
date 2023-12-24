@@ -65,7 +65,7 @@
 - [计算机专业大学生应该在大学四年踏实学哪些东西?](https://www.zhihu.com/question/27368268/answer/2615479673)
 - [這樣講話透露你的無知！5大步驟開啟第一印象！5大地雷千萬不要說！](https://youtu.be/1y7ZnuluFcg)
 - [軟體架構師的自我修養系列](https://ithelp.ithome.com.tw/users/20146414/ironman/5313)
-- [【MIT公开课】计算机课堂中根本学不到的知识 - CS Education（中英字幕）](https://www.bilibili.com/video/BV1XN4y187zp/?p=1&vd_source=f98403e008c3605faef7efe4a0658ae6)(vim、shell之類的教學)
+- [【MIT公开课】计算机课堂中根本学不到的知识 - CS Education（中英字幕）](https://www.bilibili.com/video/BV1XN4y187zp/?share_source=copy_web&vd_source=c0912dfffd78b8c1d60809b9c68a5186)(vim、shell之類的教學)
 - [十一分鐘略懂電子電路：電、電路、電阻、電容、電感、二極體、三極體、MOSFET 簡介及相關應用](https://youtu.be/V3A0fxmhYrg)(淺顯易懂，看完就對電的概念有一定的了解)
 - [Lessons Learned Speaking at Conferences](https://www.joshwcomeau.com/career/lessons-learned-speaking-at-conferences/)
 - [資工系的另一個選擇『專案管理PM』](https://youtu.be/GRx9u5JpDuI?si=nW7I-VXwaL85t8RH)
