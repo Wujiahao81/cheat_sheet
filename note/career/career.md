@@ -42,6 +42,7 @@
 - [專業獵頭訪談：工程師100萬、200萬年薪的條件？遠端工作適合語言？](https://youtu.be/L1QdHnSxs2k?si=ngK2wCdnhAFwP0k8)
 - [提升英文能力](english.md)
 - [自學寫程式好難，到底該如何開始？教你避免走歪路【完整學習策略】](https://youtu.be/t35Fxn0nenU?si=xrvMweiVmCFHejX5)
+- [#4 LeetCode 怎麼刷最有效(上)： 從 0 刷到 200 題經驗分享！ || LeetCode , 刷題, 演算法, 資料結構, 工程師面試](https://youtu.be/dJc-h7ui8wc?si=MosCxD8lMedrIgrf)
 - [如果你需要被鼓勵或是保持進步的動力可以看這](motivate.md)
 - [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
 - [How To Remember Anything Forever](https://ncase.me/remember/)
