@@ -70,3 +70,4 @@
 - [十一分鐘略懂電子電路：電、電路、電阻、電容、電感、二極體、三極體、MOSFET 簡介及相關應用](https://youtu.be/V3A0fxmhYrg)(淺顯易懂，看完就對電的概念有一定的了解)
 - [Lessons Learned Speaking at Conferences](https://www.joshwcomeau.com/career/lessons-learned-speaking-at-conferences/)
 - [資工系的另一個選擇『專案管理PM』](https://youtu.be/GRx9u5JpDuI?si=nW7I-VXwaL85t8RH)
+- [Open Source 開源社群的第一門課 | 如何成為 Apache Committer](https://byronhsu1230.medium.com/open-source-%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E7%9A%84%E7%AC%AC%E4%B8%80%E9%96%80%E8%AA%B2-%E5%A6%82%E4%BD%95%E6%88%90%E7%82%BA-apache-committer-451d42e853d6)
